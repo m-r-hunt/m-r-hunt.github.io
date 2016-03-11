@@ -17,3 +17,5 @@ github_username:  m-r-hunt
 markdown: kramdown
 highlighter: rouge
 timezone: Europe/London
+
+permalink: /:categories/:title
