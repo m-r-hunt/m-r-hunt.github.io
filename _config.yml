@@ -18,4 +18,4 @@ markdown: kramdown
 highlighter: rouge
 timezone: Europe/London
 
-permalink: /:categories/:title
+permalink: /:categories/:title/
