@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Why a blog?"
+date:   2016-03-11 20:30:00 +0000
+categories: blog-meta
+---
+
+I thought people might be interested in why I've decided to
+start a blog, and I need a few posts so I can test out the features of
+the site, so here goes.
+
+I wanted to somewhere to record my thoughts about various things,
+mostly programming projects and what I've been
+reading/watching/playing. And because I'm a child of the 21st century,
+my first reaction to that kind of thought is "stick it up on the
+public internet for anyone to read".
+
+Because I'm a programmer, I decided to write my own website rather
+than using a site builder or blogging platform. That said, using a
+static site generator is hardly a strenuous way to write a simple
+website. I should be able to extend it to do anything I want though,
+as long as it doesn't need anything going on behind the scenes (on the
+server). More on the technical details of how I did it in another
+post.
+
+Maybe I'm just going to be shouting into the void, but I thinking
+writing down my thoughts will be therapeutic. Plus some of my friends
+and family may be interested in what goes on in my head all the time.
+
+In the future I may also use the site as a portfolio for any projects
+I do that I can stick up on the web. And it's nice to have a little
+corner of the internet to call my own.
+
+Why MechToast?
+==============
+
+I'm anticipating everyone asking me this question, because no one's
+heard the name before. Story time: back at university I used to host a
+minecraft server, with accompanying website, for a group of friends
+(mostly housemates). That site and server are long gone, but while I
+was running it I saw that the hosting company we used had a special
+offer on domain names and hosting, and I decided to give it a try. I
+bought up MechToast.biz and... did nothing with it until my hosting
+expired.
+
+But that doesn't actually explain where you got the name, I hear you
+cry. Actually the name came from... nowhere really. The random firings
+of my brain in the form of word association. I thought of it, liked
+it, and decided to run with it. The image you should think of is a
+giant 60 ft tall walking toaster that fires weaponised bread
+products. It may have been influenced in part by some combination of
+Battlestar Galactica's "toasters" (i.e. a racial slur for androids)
+and the Talkie Toaster from Red Dwarf. But I may be attaching those
+associations after the fact.
+
+Anyway, cut to now, I've been meaning to start up a blog for a while
+and I remembered my old unused name and ran with it. And that's why
+you're reading this on MechToast.com.
+
+Final note: .com domains are timeless and classic and superior to all
+this modern .io/.xyz/.ninja nonsense. And yes I'm that much of a geek
+that I have strong opinions about TLDs.

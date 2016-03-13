@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello world!"
+title:  "Hello World!"
 date:   2016-03-11 18:11:00 +0000
-categories: blog-meta programming
+categories: blog-meta
 ---
 Hello world! I think I'll leave this up on the final site as a shrine to the gods of programming.
 

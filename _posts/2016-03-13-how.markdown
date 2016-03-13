@@ -1,0 +1,20 @@
+---
+layout: post
+title: "How a blog?"
+date: 2016-03-11 21:38:00 +0000
+categories: blog-meta
+---
+
+This is a quick post going over how I got the blog up and running for anyone who's interested.
+
+The  site itself is generated using Jekyll, a static site generator. It works by processing a set of markdown files into a static website. It was very simple set up a simple blog with, and seems to have enough flexibility to do pretty much whatever you want. It comes with built in support for generating blog posts but you can use it to do whatever you want. You can view all the code for the website, including the posts in raw form here.
+
+Getting started with Jekyll wasn't too arduous. I was a little annoyed with the quickstart guide on the website. This is something I've seen a lot on web pages for trendy programming tools. It just tells you to run "$PACKAGEMANAGER install $TRENDYPROGRAMMINGTOOL", and you're apparently supposed to have every language's package manager installed so you can run these commands. Even worse was one I saw which only ran on macs, but the only way I figured this out was that the only way to install it was to use homebrew, a mac specific package manager. I can understand it for a library created for a specific language which is upfront about it, but it's really irritating for general tools.
+
+In fact there is no other reference to the language it's written in anywhere else on the homepage for Jekyll (Ruby if you're wondering). I happen to know that Gem is the package manager for Ruby, but I didn't have either installed on my machine.
+
+I thought it was going to be painful to get set up on windows. Luckily someone else has suffered before me, and has written up a nice walkthrough here on how to get it all working. Once it's going it's quite nice to work with, as you can run jekyll serve and the site will be hosted locally on your machine. It also watches for changes to files and rebuilds the site as soon as you save any of the relevant files. This makes it nice and easy to see what you're doing on the finished site.
+
+The site is hosted on Github pages. This is a free service provided by Github, which can host any static site. As long as you don't need anything special happening on the webserver backend (which I don't), it works great. Even better than that, Github pages has Jekyll integrated directly which makes life even easier. You don't have to uploaded the generated website to Github, you just push the Jekyll project to Github. It then gets built and deployed on Github's servers for you. All this was pretty simple to get setup up with using their guides.
+
+By default, Github pages websites are stored at a Github.io url, derived from the user/organistation/project that created the page. For example, my user page would normally be m-r-hunt.github.io. However, you can use a custom domain by pointing you domain's DNS records at Github's servers, and creating a single file in the Github pages repo. This was also pretty trivial to get working, and means my blog appears at mechtoast.com.
