@@ -13,9 +13,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mechtoast.com" # the base hostname & protocol for your site
 github_username:  m-r-hunt
 
+collections:
+  rplog:
+    output: true
+  my_penis_coll:
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
 timezone: Europe/London
 
 permalink: /:categories/:title/
+
+
+#permalink: /rpt/log/:title/ markdown: kramdown
