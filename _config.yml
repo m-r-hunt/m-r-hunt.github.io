@@ -14,9 +14,9 @@ url: "http://mechtoast.com" # the base hostname & protocol for your site
 github_username:  m-r-hunt
 
 collections:
-  rplog:
+  rp_log:
     output: true
-  my_penis_coll:
+    permalink: /rp/log/:title/
 
 # Build settings
 markdown: kramdown
@@ -24,6 +24,3 @@ highlighter: rouge
 timezone: Europe/London
 
 permalink: /:categories/:title/
-
-
-#permalink: /rpt/log/:title/ markdown: kramdown
