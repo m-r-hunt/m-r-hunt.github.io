@@ -8,7 +8,7 @@
 # Site settings
 title: MechToast
 description: > # this means to ignore newlines until "baseurl:"
-  MechToast.com is the personal blog of Max Hunt.
+  MechToast.com is Max Hunt's personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mechtoast.com" # the base hostname & protocol for your site
 github_username:  m-r-hunt
@@ -23,4 +23,4 @@ markdown: kramdown
 highlighter: rouge
 timezone: Europe/London
 
-permalink: /:categories/:title/
+permalink: /blog/:categories/:title/
