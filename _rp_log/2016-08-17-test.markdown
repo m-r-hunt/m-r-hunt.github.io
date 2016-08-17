@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Log test"
+title: "Log Test Post"
 date: 2016-08-17 18:36:00 +1000
 ---
 Hello world for rp log.
