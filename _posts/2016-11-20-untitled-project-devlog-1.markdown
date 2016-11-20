@@ -16,6 +16,7 @@ The dialog-and-script interaction of the sign probably took the most work. I was
 Drawing and creating art is hard and I need a lot more practice at it. I've been studying and trying to imitate the Pokemon art style _without_ actually copying it identically. This helps a lot as I've already learned a lot about walk cycles I didn't know before.
 
 Priorities coming up:
+
 * Build a little town with buildings and interiors (and add code to transition areas).
 * Start work on the battle system.
 * Create more tiles and improve the look of McMainCharacter.
