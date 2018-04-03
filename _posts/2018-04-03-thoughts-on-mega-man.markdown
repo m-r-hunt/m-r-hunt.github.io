@@ -5,7 +5,7 @@ date:   2018-04-03 19:49:00 +0000
 categories: gamedev
 ---
 
-I've been playing some Mega Man for [this challenge I came up with](player255.blogspot.co.uk), and I've got some thoughts on the boss design I've seen.
+I've been playing some Mega Man for [this challenge I came up with](https://player255.blogspot.co.uk), and I've got some thoughts on the boss design I've seen.
 
 ![Mega Man Zero 4 Title Screen]({{site.url}}/assets/mmz4-title.png)
 
