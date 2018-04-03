@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on Mega Man Boss Design"
-date:   2018-04-03 20:49:00 +0000
+date:   2018-04-03 19:49:00 +0000
 categories: gamedev
 ---
 
