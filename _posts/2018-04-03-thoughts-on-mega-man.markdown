@@ -33,7 +33,7 @@ Attacks are often difficult to avoid *even if you know they are coming*.
 
 The quintessential example of this for me is an attack I've seen in a few forms: what I like to call the timing laser. In this attack the boss charges up a giant laser beam for several seconds, and then fires it. The beam instantly crosses the width of the screen and persists for a significant time, like a second. To avoid this you must either jump or slide a split second before the laser actually fires, so you remain over/under the beam for its entire duration.
 
-![Me failing to jump over the beam]({{site.url}}/assets/mmab-timinglaser.gif)
+![Me failing to jump over the beam]({{site.url}}/assets/mmb-timinglaser.gif)
 
  This is hard to execute even if you know whats happening, as you must precisely time your move or you'll end up moving either to early or to late and taking a hit. Although you can see the beam charging there's no indication of when the attack will actually fire, you have to know the duration from the start of the charging animation to the firing exactly. 
 
