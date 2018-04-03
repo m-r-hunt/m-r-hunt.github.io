@@ -14,7 +14,7 @@ Disclaimer: I'm not a Mega Man expert, I've only finished Mega Man Zero 4 and Me
 Observation #1
 ---
 
-Mega Man bosses don't telegraph their attacks well. Often not at all, they simply fire the attack and if you're in the wrong place (directly in front of them)you get hit. I think this is because they are built around ranged combat. If you're standing far away then the time it takes a projectile to threaten you is the trlegraphing for the attack. I've noticed this is most often true for movement where the boss will start moving with no windup. Often they will jump, requiring you to move to avoid a hit, as touching bosses in mega man is a hit.
+Mega Man bosses don't telegraph their attacks well. Often not at all, they simply fire the attack and if you're in the wrong place (directly in front of them) you get hit. I think this is because they are built around ranged combat. If you're standing far away then the time it takes a projectile to threaten you is the telegraphing for the attack. I've noticed this is most often true for movement where the boss will start moving with no windup. Often they will jump, requiring you to move to avoid a hit, as touching bosses in Mega Man is a hit.
 
 Observation #2
 ---
