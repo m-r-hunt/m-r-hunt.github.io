@@ -47,3 +47,5 @@ I'm shelving Nail for now. It's been a very satisfying and educational project, 
 A project I might try with Nail is to write a simple game engine in Rust and integrate Nail as the scripting language. Something like a simple 2D vector/polygon drawing engine, with some keyboard interation, with Nail defining the game logic. I may also modify Nail to put in some specialised primitives, like 2D coordinates and polygons, with proper support so they resemble the other builtin Nail types.
 
 At some point, I'd like to try some more language design experiments. Writing a frontend for LLVM and using it to JIT or AOT compile a language seems like a doable project, which should allow really good performance "for free" from LLVM's optimisation. Of course there are other issues to tackle like static typing, and I'm sure I'll run into more problems I haven't thought of.
+
+**Update**: The code for Nail is [now available](https://github.com/m-r-hunt/nail).
