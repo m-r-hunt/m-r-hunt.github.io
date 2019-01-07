@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures in Programming Language Designn"
+title:  "Adventures in Programming Language Design"
 date:   2019-01-07 08:00:00 +0000
 categories: languages
 ---
