@@ -10,12 +10,12 @@ Recently I've been venturing into the world compilers and programming language d
 The Before Times
 ---
 
-Before the current bout of learning, I knew relatively little about the subject. I had read the classic Structure and Interpretation of Computer Programs (SICP), which has the chapter on a "meta-circular evaluator" - that is a Lisp/Scheme interpreter written in Lisp/Scheme. I had also written some very small and simple (and slow) Lisp and Forth interpreters as an experiment. That's about it though. Parsing "real" syntax, more complex than Lisp s-expressions or Forth stream-of-words, seemed like a big hurdle.
+Before the current bout of learning, I knew relatively little about the subject. I had read the classic [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html), which has the chapter on a "meta-circular evaluator" - that is a Lisp/Scheme interpreter written in Lisp/Scheme. I had also written some very small and simple (and slow) Lisp and Forth interpreters as an experiment. That's about it though. Parsing "real" syntax, more complex than Lisp s-expressions or Forth stream-of-words, seemed like a big hurdle.
 
 The Book
 ---
 
-What kickstarted me is the book "Crafting Interpreters" by Bob Nystrom. Available for free online, I got into reading it. Unlike some books on the subject I had seen before, it takes a practical approach using modern languages (Java and C). It's quite readable and I found it easy to understand. Also notable is the approach of providing all the code for working interpreters, there's no "exercise for the reader" (although the book does have exercises to test understanding or implement extensions, which is nice).
+What kickstarted me is the book ["Crafting Interpreters" by Bob Nystrom](http://www.craftinginterpreters.com/). Available for free online, I got into reading it. Unlike some books on the subject I had seen before, it takes a practical approach using modern languages (Java and C). It's quite readable and I found it easy to understand. Also notable is the approach of providing all the code for working interpreters, there's no "exercise for the reader" (although the book does have exercises to test understanding or implement extensions, which is nice).
 
 Initially I followed the code fairly closely, but translated into Rust. I think translating the code like this is quite a good way to really learn the material, where with simple reading I might not internalise it properly. I titled this initial version "Notlox" after the book's Lox language.
 
@@ -33,9 +33,11 @@ As a result, both the language and code are now pretty much unrecognisable from 
 Trial by Christmas
 ---
 
-Coincidentally, I happened to start this project in November. Every year in December is Advent of Code, which I enjoy a lot. This sparked a great idea: get my compiler up to scratch and do Advent of Code in a language I wrote myself.
+Coincidentally, I happened to start this project in November. Every year in December is [Advent of Code](https://adventofcode.com), which I enjoy a lot. This sparked a great idea: get my compiler up to scratch and do Advent of Code in a language I wrote myself.
 
 Well, I managed it. I put in some hacks, notably around for loops which are hardcoded to work with ranges, arrays, and maps only. There are also a few missing features, like garbage collection (currently you just produce garbage and run out of memory if you produce too much). Despite these limitations I have been able to solve most of the early Advent of Code problems without great drama (although I did have to quickly hack in a few extra stdlib functions and operators I had missed). Really the writing in the language feels a lot like writing Lua or Go, which is intended. (I did slip back into mostly writing in Rust for the later/harder AoC problems).
+
+My solutions are available on [Github](https://github.com/m-r-hunt/aoc2018). This is the most substantial body of Nail example code that exists at the moment.
 
 Wrapping Up
 ---
