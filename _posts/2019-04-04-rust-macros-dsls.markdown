@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Rust Macros for DSLs, or, Embedding Lisp inside Rust Source"
+date:   2019-04-04 20:00:00 +0000
+categories: programming
+---
+
 Recently I've been experimenting with Rust macros, and I've come to the conclusion that they are quite powerful. More powerful than I had previously realised.
 
 Some readers familiar with Rust may think this article is going to be about the relatively recent addition of procedural macros, but actually I've done everything using the old `macro_rules!` style macros.
