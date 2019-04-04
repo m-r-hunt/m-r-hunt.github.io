@@ -44,7 +44,7 @@ fn main() {
 }
 {% endhighlight %}
 
-We can ditch the multiply fn by adding explicit operator support to the macro:
+We can ditch the multiply `fn` by adding explicit operator support to the macro:
 
 {% highlight rust %}
     ( ( * $arg1:tt $($args:tt)* ) ) => {
@@ -54,7 +54,7 @@ We can ditch the multiply fn by adding explicit operator support to the macro:
 
 This would have to be done by hand for all the other operators too.
 
-What about defining functions? Well, then we have to be a bit careful because of the distinction between items and expressions in Rust. We can't define a global function in the middle of a print statement. My approach is to have a separate rlisp_expr! for the subset of rlisp that works in expression context, and make `rlisp!` expand to items. That allows us to both define named functions and have anonymous ones in expressions.
+What about defining functions? Well, then we have to be a bit careful because of the distinction between items and expressions in Rust. We can't define a global function in the middle of a print statement. My approach is to have a separate `rlisp_expr!` for the subset of rlisp that works in expression context, and make `rlisp!` expand to items. That allows us to both define named functions and have anonymous ones in expressions.
 
 {% highlight rust %}
 macro_rules! rlisp_expr {
