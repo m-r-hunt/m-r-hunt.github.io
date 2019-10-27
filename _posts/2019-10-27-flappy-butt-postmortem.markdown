@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Minigolf Adventure Postmortem"
+title:  "Flappy Butt Postmortem"
 date:   2019-10-27 15:00:00 +0000
 categories: gamedev
----
-
-Summary
 ---
 
 As I alluded to in my [last postmortem](https://mechtoast.com/blog/gamedev/minigolf-adventure-postmortem/), I've stopped trying to write my games from a low level up, and instead moved over to using the [Godot game engine](https://godotengine.org/). [Flappy Butt](https://github.com/m-r-hunt/flappy_butt) is the first thing I made with Godot in order to try out and start becoming familiar with the engine. It's a Flappy Bird clone featuring a flying butt.
