@@ -17,4 +17,6 @@ I wrote a simple addon that allowed me to click a button in a menu in the editor
 
 ![Zeldish Screenshot]({{site.url}}/assets/zeldish_map.png)
 
+One major problem I had was importing animation from Aseprite. I was still using a script I developed for Flappy Butt which reads the JSON output from Aseprite. However, this was an ad-hoc "tool" script so that I could see the animations in the editor. I had issues with keeping the sprites in Godot up to date after updating them in Aseprite. As I later discovered, the correct thing to do in this situation is to write an import plugin, so Godot understands how to import the sprites and updates them automatically when they change. I did get there in the end on my next project.
+
 Zeldish never got totally finished (even just the first test dungeon). But it was a good learning experience, and it fed nicely into my next project, Overgrown, which had a hard deadline so I had to get started on it. More on that next time.
