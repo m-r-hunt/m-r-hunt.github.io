@@ -17,6 +17,8 @@ Ah good, pushing blocks around with Master Yoda? Does he still do that thing wit
 
 [Laughter from the audience]
 
+Yeah, every year.
+
 So, you've started to learn the principles of using The Force, which makes it all the more vital you learn the ethical principles followed by the Jedi.
 
 First, a quick question for you. Is production of lightning a good thing or a bad thing? Is it a Jedi or a Sith technique?
@@ -35,11 +37,11 @@ The point I'm making here is that no Force technique is fundamentally "good" or 
 
 So, how can we use The Force ethically? First up, everyone's favourite topic: health and safety.
 
-Never use The Force unless you're sure it's safe to do so. For example, never push an object if you don't know what's on the other side of it. To illustrate this, we have the case of the Jedi Knight Tane Sh'o. Z7, would you mind?
+Never use The Force unless you're sure it's safe to do so. For example, never push an object if you don't know what's on the other side of it. To illustrate this, we have the case of the Jedi Knight Tane Ako. Z7, would you mind?
 
 [The classroom droid projects an image of a newspaper article. "Careless Jedi Concusses Senator"]
 
-Knight Sh'o wished to make a dramatic entrance into the senate to deliver news of a battle victory in the Second Sith War. He pushed open the door to the waiting room, slamming it open. Unfortunately an assistant was just getting up to leave and use the toilet. He suffered a broken nose, concussion, and a nasty black eye. This kind of incident reflects extremely badly on the Jedi, and it's important we avoid them whenever possible.
+Knight Ako wished to make a dramatic entrance into the senate to deliver news of a battle victory in the Second Sith War. He pushed open the door to the waiting room, slamming it open. Unfortunately an assistant was just getting up to leave and use the toilet. He suffered a broken nose, concussion, and a nasty black eye. This kind of incident reflects extremely badly on the Jedi, and it's important we avoid them whenever possible.
 
 Of course, as your other Masters instruct you in the various practical lessons, they'll drill into you the proper health and safety rules to follow. You're not likely to forget those more than once, believe me.
 
