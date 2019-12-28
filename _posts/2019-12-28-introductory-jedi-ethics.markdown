@@ -39,7 +39,7 @@ So, how can we use The Force ethically? First up, everyone's favourite topic: he
 
 Never use The Force unless you're sure it's safe to do so. For example, never push an object if you don't know what's on the other side of it. To illustrate this, we have the case of the Jedi Knight Tane Ako. Z7, would you mind?
 
-[The classroom droid projects an image of a newspaper article. "Careless Jedi Concusses Senator"]
+[The classroom droid projects an image of a newspaper article. "Careless Jedi Concusses Consultant", Republic Times]
 
 Knight Ako wished to make a dramatic entrance into the senate to deliver news of a battle victory in the Second Sith War. He pushed open the door to the waiting room, slamming it open. Unfortunately an assistant was just getting up to leave and use the toilet. He suffered a broken nose, concussion, and a nasty black eye. This kind of incident reflects extremely badly on the Jedi, and it's important we avoid them whenever possible.
 
@@ -47,11 +47,11 @@ Of course, as your other Masters instruct you in the various practical lessons, 
 
 Outside of simple physical effects, The Force also allows Jedi to tap into the emotions and thoughts of those around them. This is of course an ethical minefield.
 
-Firstly, never attempt to read someone's emotions or thoughts without explicit written consent, or a warrant from a high republic court. Getting caught violating this rule will absolutely get you stripped of your title, cast out of the Order, and sent to prison for a significant sentence. The Republic Data Protection Act also places heavy restrictions on how any information gained this way can be stored and accessed. If in doubt, consult with one of the Temple's Data Protection Officers.
+Firstly, never attempt to read someone's emotions or thoughts without explicit written consent, or a warrant from a high republic court. Getting caught violating this rule will absolutely get you stripped of your title, cast out of the Order, and sent to prison for a significant sentence. The Republic Data Protection Regulations also place heavy restrictions on how any information gained this way can be stored and accessed. If in doubt, consult with one of the Temple's Psychic Data Protection Officers, they're our RDPR experts.
 
-There is an exception for involuntary reading. Has anyone walked into a room and felt the mood? Like walking into a pub when the home team has just lost? Feeling that via The Force would be illegal, but the involuntary reading exception covers you. You're not legally allowed to act on any feelings you get that way.
+There is an exception for involuntary reading. Has anyone walked into a room and felt the mood? Like walking into a pub when the home team has just lost? Feeling that via The Force would be illegal, but the involuntary reading exception covers you. You're not legally allowed to act on any feelings you get that way, and they're not admissible evidence.
 
-Secondly, never EVER attempt to influence or "suggest" to someone using The Force. This is a high crime with no exceptions. Manipulating someone's thoughts is the most unethical thing you can do, and the Jedi Order never condones it. This is the closest you can get to a "Dark" Force power. Again, we've all seen the holoflicks where the hero talks his way into the bar, "you want to let me in for a drink". Total rubbish. Never do this, please.
+Secondly, never EVER attempt to influence or "suggest" to someone using The Force. This is a high crime with no exceptions. Manipulating someone's thoughts is the most unethical thing you can do, and the Jedi Order never condones it. This is the closest you can get to a "Dark" Force power. Again, we've all seen the holoflicks where the hero talks his way into the bar, "you want to let me in for a drink". [Master Shune waves his hand at the audience.] Total rubbish. Never do this, please.
 
 Finally, precognition. As soon as you joined the Jedi Order, you were banned from gambling. No playing the Galactimillions, no predicting that "Old Rodian" is going to fly home at the 3 o'clock race. Giving anyone outside the order tips is also banned, so don't go getting ideas. Also, precognitive visions are not admissible evidence. You cannot arrest someone because you saw they were about to kick off or pick that fellow's pocket. They have to actually commit the crime first.
 
