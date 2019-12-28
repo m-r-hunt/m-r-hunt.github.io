@@ -5,8 +5,6 @@ date:   2019-12-28 12:00:00 +0000
 categories: fiction
 ---
 
-== Introductory Jedi Ethics
-
 [Transcript of a lecture given to new Padawans at the Jedi temple on Coruscant. The speaker is Jedi Master Atko Shune.]
 
 Hello, good morning everyone. Is this everyone? I know these 9am morning lectures aren't my most popular timeslot. Yes, come in, have a seat over there.
