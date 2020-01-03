@@ -56,7 +56,7 @@ Then you can use this texture anywhere you need to as with any other texture, fo
 
 Sounds are slightly trickier as there isn't a nice function to load the bytes into a sound. Instead we need to assign it to the data of the correct kind of [AudioStream](https://docs.godotengine.org/en/3.1/classes/class_audiostream.html) and make sure the settings are correct for the sound to play correctly.
 
-[`AudioStreamSample`](https://docs.godotengine.org/en/3.1/classes/class_audiostreamsample.html) is used for WAV sounds and [`AudioStreamOGGVorbis`](https://docs.godotengine.org/en/3.1/classes/class_audiostreamoggvorbis.html) is used for OGGVorbis sound/music files. In both cases we assign the `PoolByteArray` to the data member of the stream. For an `AudioStreamSample`/WAV file the format, stereo mode and mix_rate must be set correctly for the WAV file in order for the sound to play correctly. Modders producing sounds will need to export their sounds with the correct settings.
+[`AudioStreamSample`](https://docs.godotengine.org/en/3.1/classes/class_audiostreamsample.html) is used for WAV sounds and [`AudioStreamOGGVorbis`](https://docs.godotengine.org/en/3.1/classes/class_audiostreamoggvorbis.html) is used for OGGVorbis sound/music files. In both cases we assign the `PoolByteArray` to the `data` member of the stream. For an `AudioStreamSample`/WAV file the `format`, `stereo` mode and `mix_rate` must be set correctly for the WAV file in order for the sound to play correctly. Modders producing sounds will need to export their sounds with the correct settings.
 
 WAV Example:
 
