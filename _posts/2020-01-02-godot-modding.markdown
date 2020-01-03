@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Making Godot Games Modable"
+title:  "Making Godot Games Moddable"
 date:   2020-01-02 22:00:00 +0000
 categories: gamedev
 ---
 
-This article is about how to use Godot in the upcoming 8 Bits to Infinity "Shape Jam" in January 2020. More info is available on the [jam pages](https://itch.io/jam/shape-jam-ii-part-1) but here's a short summary: In part 1, develop a game with simple shapes for graphics but make it easily modable so someone else can replace the graphics and add sound. For part 2, take someone else's part 1 game and create the graphics and sound.
+This article is about how to use Godot in the upcoming 8 Bits to Infinity "Shape Jam" in January 2020. More info is available on the [jam pages](https://itch.io/jam/shape-jam-ii-part-1) but here's a short summary: In part 1, develop a game with simple shapes for graphics but make it easily moddable so someone else can replace the graphics and add sound. For part 2, take someone else's part 1 game and create the graphics and sound.
 
 The simplest approach to using Godot for this jam is to just provide the Godot project source. Since it's a free and open source engine, anyone can download the engine and modify the game. This is a perfectly valid approach which doesn't really need more elaboration. However, there are some drawbacks to this approach. It requires a modder to download and use the engine (at least at a basic level), including re-exporting the project after they are done making modifications.
 
@@ -13,7 +13,7 @@ Another way is to dynamically load assets at runtime from outside the Godot proj
 
 I've got a test project demonstrating these techniques [on Github.](https://github.com/m-r-hunt/godot_modding_test_project)
 
-When working normally in Godot, you place assets into the Godot project folder. Then, if they are in a format the engine understand, it will automatically import them and they will be available under the `res://` paths. In order to load assets outside of this process, we need to manually open and read files and then convert them into the proper Godot resource format using the functionality available in the engine.
+When working normally in Godot, you place assets into the Godot project folder. Then, if they are in a format the engine understands, it will automatically import them and they will be available under the `res://` paths. In order to load assets outside of this process, we need to manually open and read files and then convert them into the proper Godot resource format using the functionality available in the engine.
 
 ## Reading bytes out of a file
 
@@ -86,4 +86,4 @@ Then once you have an `AudioStream` you can assign it to the stream member of an
 
 ## Conclusion
 
-Using these techniques, you can make a Godot game modable without needing to provide the source, or require modders to run the full Godot editor. This should make for some fun Shape Jam projects. Enjoy!
+Using these techniques, you can make a Godot game moddable without needing to provide the source, or require modders to run the full Godot editor. This should make for some fun Shape Jam projects. Enjoy!
