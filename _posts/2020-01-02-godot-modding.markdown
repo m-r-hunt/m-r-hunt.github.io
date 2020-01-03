@@ -35,7 +35,7 @@ Finally, this will probably only work on desktop platforms (Mac/Win/Linux) and n
 
 First we need to create an `Image` resource from our file bytes. Conveniently, the [`Image` class](https://docs.godotengine.org/en/3.1/classes/class_image.html) has a couple of methods to do the trick: `load_jpeg/png/webp_from_buffer()`.
 
-Once we've got an Image, we can create an [ImageTexture](https://docs.godotengine.org/en/3.1/classes/class_imagetexture.html) from it using `ImageTexture.create_from_image().`
+Once we've got an Image, we can create an [ImageTexture](https://docs.godotengine.org/en/3.1/classes/class_imagetexture.html) from it using `ImageTexture.create_from_image()`.
 
 Example:
 
