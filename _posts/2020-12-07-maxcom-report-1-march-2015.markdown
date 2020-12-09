@@ -23,6 +23,14 @@ One Alex Spencer has distinguished himself as a sniper, first to earn the rank o
 
 The most tense and action packed mission was the first UFO assault, Operation Falling Jester in Germany. Ken Poyner and Rob Beasley led a team of rookies to clear out the hostile presence and secure valuable alien technology. They found themselves in a tight spot midway through the mission, with multiple injuries and surrounded by sectoids. But some well placed grenades and flanking managed to bring the mission to close with no fatalities.
 
+Mission | Location | Squad
+--------|----------|------
+Operation Bleeding Star | Berlin, Germany | Alex Spencer, Michael Wilson, Chris Chamberlain
+Operation Flying Father | Osaka, Japan | Alex Spencer, Robert Goss, Rob Beasley, Caspar van der Sman
+Operation Rotting Sword | Houston, United States | Alex Spencer, Michael Wilson, Ken Poyner
+Operation Falling Jester | UFO Crash Site, Germany | Ken Poyner, Rob Beasley, Sam Staton
+Operation Black Smoke | Melbourne, Australia | Caspar van der Sman, Chris Chamberlain, Alex Spencer
+
 ### In Memoriam
 
 RIP Rookie Megan Rose. Brutally oneshot by a Thin Man's plasma rifle during Operation Rotting Sword. You will be missed, but not that much because you were still an uncustomised rookie.
