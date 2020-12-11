@@ -40,8 +40,11 @@ Operation Final Bell | Covert Data Recovery, South Africa | Sam Staton	Matt Roge
 ### In Memoriam
 
 RIP Caspar van der Sman, died of blunt force trauma after assault from a zombie.
+
 RIP Ken Poyner, died of fast acting Chryssalid poison moments after being attacked.
+
 RIP Jethro _ , died of massive blood loss after assault by a Chryssalid.
+
 RIP Chris Chamberlain, also died of fast acting Chryssalid poison moments after being attacked.
 
 ### Science Divison Report
