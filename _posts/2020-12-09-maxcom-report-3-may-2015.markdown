@@ -27,7 +27,7 @@ Aside from the sad losses of Operation Brutal Crown, our other operations this m
 
 ![March Report]({{site.url}}/assets/maxcom_may_2015_personnel.png)
 
-For the second month in a row, Sam Staton receives the badge of shame for his wild inaccuracy with a rocket launcher, putting himself and his squadmates at risk. Despite this, he's climbing the ranks at a rapid pace to go on par with Alex Spencer. Rob Beasley has emerged as the goto squad medic, while Michael Wilson has developed a liking for smoke grenades. Robert Goss has racked up an impressive body count with his flamethrower, although he did once miss horribly and set fire to the building with the objective in without achieving anything. No one has brought it up though as we're all terrified of him.
+For the second month in a row, Sam Staton receives the badge of shame for his wild inaccuracy with a rocket launcher, putting himself and his squadmates at risk. Despite this, he's climbing the ranks at a rapid pace to go on par with Alex Spencer. Matt Rogers on the other hand, is a crack shot with his rocket launcher and has a bright future ahead of him. Rob Beasley has emerged as the goto squad medic, while Michael Wilson has developed a liking for smoke grenades. Robert Goss has racked up an impressive body count with his flamethrower, although he did once miss horribly and set fire to the building with the objective in without achieving anything. No one has brought it up though as we're all terrified of him.
 
 Mission | Location | Squad
 --------|----------|------
