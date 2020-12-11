@@ -31,33 +31,33 @@ Operation Shattered Serpent | Dallas, United States | Alex Spencer, Robert Goss,
 
 ### Science Divison Report
 
-#### Chief Scientist:
+#### Chief Scientist
 Dr Vahlen
 
-#### Facilities Staff:
+#### Facilities Staff
 18 Scientists
 
-#### Monthly Projects:
+#### Monthly Projects
 
-##### Weapon Fragments – Complete:
+##### Weapon Fragments – Complete
 The alien weapon fragments provide a limited glimpse into the system utilized in their equipment. The efforts of the research team in studying the damaged circuitry and electronics we recovered have yielded a successful outcome. The new integrated sighting module created for our weaponry was heavily influenced by the aliens' own targeting system.
 
-##### Meld Recombination – Complete:
+##### Meld Recombination – Complete
 Our field operatives have recovered canisters of a strange substance. After further analysis this material's most salient feature is its versatility. In early testing, we were able to devise several methods that allow for direct manipulation of the Meld substance and its physiochemical properties. The advances we've made should allow for a wide range of applications in the fields of genetic modification and cybernetic enhancement.
 
-##### Alien Materials – Complete:
+##### Alien Materials – Complete
 The aliens appear to be using materials that are lighter and stronger than anything we've ever seen. We have managed to crudely adapt some of the observed techniques into our own research. Our first development, a multi-walled carbon nanotube weave, was modeled after an unusual pattern mirrored in several of the alien materials. This new configuration has proven to possess a greater tensile strength than any material previously recorded in known science.
 
-##### Carapace Armour – Complete:
+##### Carapace Armour – Complete
 Following our initial research into alien materials we have succeeded in creating an advanced suit of body armour based on the alien alloys. These are the same materials used extensively by the aliens in the hull plating and internal structure of their craft. However, the downside to this exotic material is that we have no way of replicating it on Earth. With a limited pool of resources available for future projects, we'll need to manage our use of these alloys carefully. 
 
-##### Beam Weapons – Complete:
+##### Beam Weapons – Complete
 By studying the methods used by the aliens to manage energy consumption and heat dissipation in their weapons, we've advanced our existing laser-based weaponry designs well beyond what we had previously envisioned. Remarkably, we now have a working prototype, a development that had at one time been considered impossible. Although we've had to reduce the size of the focusing lenses in the process, we've found very little decrease in the overall output accuracy of the weapon during initial testing.
 
-##### Experimental Warfare – Ongoing:
+##### Experimental Warfare – Ongoing
 Although our understanding of the alien technology is still limited, what we've seen so far is enough to revolutionize combat as we know it. If we are to level the playing field, we must adapt the alien technology for our own use.
 
-#### Personal Notes:
+#### Personal Notes
 This month has seen the science team more than double in size, as well as significant discoveries to aid both the offensive and defensive capabilities of MaX-COM’s field agents. The team have all performed above and beyond expectations and should be commended for it. My only request if for more accommodation space as we are currently having to share sleeping space on a shift rota and the poor work experience boy was found napping in an equipment cupboard.
 
 ### Upcoming Month Goals
