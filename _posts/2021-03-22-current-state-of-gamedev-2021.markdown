@@ -49,7 +49,7 @@ My work on bigger/ongoing projects between jams was a bit less succesful. I'm st
 
 ## Bonus Projects
 
-Creating a seperate category for a few things that didn't quite fit the above. These were short (a day or two at most) and fit in around other things I was doing. Doing this lightning fast projects and getting them out the door immediately works surprisingly well to clear my head. The trick is making sure they're really just self-contained one day kind of things. They're definitely worth mentioning here:
+Creating a seperate category for a few things that didn't quite fit the above. These were short (a day or two at most) and fit in around other things I was doing. Doing these lightning fast projects and getting them out the door immediately works surprisingly well to clear my head. The trick is making sure they're really just self-contained one day kind of things. They're definitely worth mentioning here:
 
 * [The Bradford Hotel Heist](http://mechtoast.com/bradford-heist/The%20Bradford%20Hotel%20Heist.html) - A short IF puzzle game made in Twine based on a joke from an RP session with some friends. Silly but a little bit of fun hopefully.
 
