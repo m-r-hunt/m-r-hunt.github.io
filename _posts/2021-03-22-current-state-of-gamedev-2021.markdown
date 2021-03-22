@@ -27,6 +27,8 @@ I continued to do a lot of game jam projects this year. Here's a full list with 
 
 * [Pawprints and Platforms](https://mrhthepie.itch.io/pawprints-and-platforms) - Broke out of my comfort zone significantly by making the leap into 3D and Unity. The end product wasn't amazing in terms of gameplay I think but I did get to explore some new ideas and tools, and did end up with a completed project.
 
+* [Mobius Station](https://ldjam.com/events/ludum-dare/47/mobius-station) - Warehouse management game inspired by Wilmott's Warehouse with the added twist that you're on a Mobius strip space station. Probably not quite living up to the full possibilities here, but at least I'm trying to do something unique.
+
 * [Super Crate Smash](https://mrhthepie.itch.io/super-crate-smash) - Breaking out again with an Unreal game. This was a weird decision motivated by wanting to learn some basic Unreal to help out with a job interview. Well, it worked and I got the job. The actual resultant game is probably a bit mediocre, but inspired fierce competition to speedrun the game by a few friends. The current world record is a ridiculous [1:27.952 by robjbeasley](https://www.youtube.com/watch?v=yvNSA_KTwzQ).
 
 * [Chargin' Chuck](https://mrhthepie.itch.io/chargin-chuck) - Another quicker weekend jam. Had some slightly original gameplay ideas and was reasonably happy with the end product. More speedrunning happened with the current records at [any% in 1:01 by robjbeasley](https://youtu.be/0LStmLH4iJY) and [100% in 1:29 by mobiusman](https://www.youtube.com/watch?v=eibK6bSYYWw).
