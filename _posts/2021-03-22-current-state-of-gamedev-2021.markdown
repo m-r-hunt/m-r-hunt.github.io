@@ -31,6 +31,38 @@ I continued to do a lot of game jam projects this year. Here's a full list with 
 
 * [Chargin' Chuck](https://mrhthepie.itch.io/chargin-chuck) - Another quicker weekend jam. Had some slightly original gameplay ideas and was reasonably happy with the end product. More speedrunning happened with the current records at [any% in 1:01 by robjbeasley](https://youtu.be/0LStmLH4iJY) and [100% in 1:29 by mobiusman](https://www.youtube.com/watch?v=eibK6bSYYWw).
 
-## Other Projects
+* [MonsteRL](https://mrhthepie.itch.io/monsterl) - This year's 7DRL, and back to a more traditional roguelike style. This owes a lot to the work I had been doing on Resident Rogue (see below) and I really hit the ground running. I was really happy with how things went, and a couple of features like the procedural names generation turned out really well.
+
+## Bigger Projects
+
+My work on bigger/ongoing projects between jams was a bit less succesful. I'm still not that good at sticking to projects longer term. Here's a quick summary of what I worked on this year:
+
+* Overgrown V2 had some improvements and got uploaded. The whole global pandemic situation put a pretty big damper on making a local multiplayer co-op game though, and V2 hasn't really be played.
+
+* Untitled/Unfinished Pico-8 Multicart Zelda-style ARPG - had some fun with this but ended up going nowhere with it.
+
+* Castle Tyseley - Unfinished 3D first person dungeon crawler made in Unity. Had various issues, and could never get the visuals to look decent. Ended up going nowhere.
+
+* [Resident Rogue](https://mrhthepie.itch.io/resident-rogue) - Traditional roguelike made in MonoGame. this is the exception, as I ended up releasing 2 versions already. The first was rough but the second was very playable. The work on this payed off double as I used it to make MonsteRL, a very solid 7DRL too. I've got another version coming out soon which I'm going to call the end of this project though.
+
+## Bonus Projects
+
+Creating a seperate category for a few things that didn't quite fit the above. These were short (a day or two at most) and fit in around other things I was doing. Doing this lightning fast projects and getting them out the door immediately works surprisingly well to clear my head. The trick is making sure they're really just self-contained one day kind of things. They're definitely worth mentioning here:
+
+* [The Bradford Hotel Heist](http://mechtoast.com/bradford-heist/The%20Bradford%20Hotel%20Heist.html) - A short IF puzzle game made in Twine based on a joke from an RP session with some friends. Silly but a little bit of fun hopefully.
+
+* [Coming of Age](http://mechtoast.com/coming-of-age/Coming%20of%20Age.html) - Another IF game, more narrative in style. Story idea just popped into my head one day and I had to get it down.
+
+* [Pokemon: Real or Markov](https://mrhthepie.itch.io/pokemon-real-or-markov) - Small quiz game spun off from MonsteRL that just serves to show off the name generator. A nice bonus that I put out really quickly after finishing up MonsteRL.
+
+## A Lesson Learned
+
+One thing that's become really apparent to me over this year is that, while game jams are fun, they are poison for working on an ongoing larger project (at least for me). Shifting to a novel new idea is fun, but then getting back onto whatever I've been working on is really hard, and I've ended up repeatedly fading out on projects because I did a game jam.
+
+Having now recognised this, I'm going to cut back on my game jam output and probably not do any until 7DRL next year (I have a 7DRL streak to maintain so it gets to be the exception).
 
 ## Where To Next
+
+I have a plan for my next steps after finish up with Resident Rogue this week. Quite a while ago I read [this article](https://www.nickbentley.games/the-100-10-1-method-for-game-design/) on a game design method, and the idea has really stuck with me. (A quick TL;DR is: you come up with 100 ideas, make 10 of them into prototypes, and then pick 1 of the prototypes to polish into a full game). I think this will solve some issues I've had with getting into a project and then realising I don't like it or really know where I'm going with it. Making 10 prototypes kind of resembles doing 10 game jams (which I've gotten good at finishing), but with some consistency of scope and timing to make the products comparable. As mentioned above I'm going to stop doing other game jams and just focus on this project, and I'm hopeful it will go well.
+
+Tech wise, if it wasn't obvious from the lists above I've bounced all over the place on different engines and technology this year. I think the ultimate conclusion is that I want to get back into Godot, but use C# for scripting. I can also apply a lot of the lessons I've learned from different ways of doing things.
