@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 1 Dev Diary"
+date:   2022-03-06 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+It's time for 7 Day Roguelike 2022. This will be my _(checks notes)_ 5th consecutive year of participation.
+
+Past Entries:
+
+* [2018](https://mrhthepie.itch.io/taiyoh)
+* [2019](https://mrhthepie.itch.io/beneath-the-sands)
+* [2020](https://mrhthepie.itch.io/hostile-skies)
+* [2021](https://mrhthepie.itch.io/monsterl)
+
+## Idea and Design
+
+I started off the day with the important step of coming up with a game idea and design. I don't have a big problem with coming up with ideas generally, although finding one with the right properties (scope, ambition, fitting the jam, etc) can be a challenge.
+
+I ended up on a non-traditional roguelike (or roguelite) where the dungeons/combat are represented by flicking disks around an arena. The player is a disc, enemies are discs, and they fire into each other, using rigidbody physics, to battle it out. I know there's a board game similar to this idea (Catacombs) although I haven't played it, and I think some games or even 7DRLs have done similar things. Still, I think it will be fun to make and something I can get done in the time.
+
+I fleshed out the design a bit with some diagrams of the main gameplay screen, notes on game design, as well as a design for the whole flow of the game and ideas for the first bits of content (enemies and items).
+
+![Designs]({{site.url}}/assets/7drl_2022_design.jpg)
+
+## Gameplay Prototyping
+
+For the rest of the day I started working on the actual game. I've learned from experience that the best way to do game jams is to start by keeping your eye on the prize and building a basic "first pass" over the entire game. I aim to get the entire thing playable end-to-end, even if everything is in the most basic placeholder state. From there you can iterate on each part knowing you haven't forgotten to make a main menu or something.
+
+I started with the core gameplay. I implemented the most basic "flicking" mechanic, with a player and simplistic AI that take turns and can hit each other to do damage. I set up a basic level and added a "stairs down" that the player can use to advance after killing the enemy.
+
+![First Gameplay]({{site.url}}/assets/7drl_2022_first_gameplay.gif)
+
+After that I went through and built out placeholder menus for all the bits of the game. This mean the entire game is now complete! Of course, "beating the game" is playing the same trivial level 3 times. But it's still nice to have a complete and working skeleton to build on.
+
+## Time Spent
+
+I put in *8 hours* today. A note on my timekeeping: In previous years and other jams I've been pretty inconsistent with my work ethic. This year my aim is to put in a solid amount of work every day and see what I can get done. Each hour of the day I'm either working or not. For those that I'm working, I try to work most of the hour (~45-50 minutes) with the rest (~10-15 minutes) being break time to get up and stretch, etc. 8 hours or more a day is what I'm aiming for, so I've managed that today.
+
+## Next Steps
+
+Next up is building out the core gameplay some more. Controllable power of flicks is essential, and some UI to display player and enemy info is also coming very soon. After that, I'll work on the systems for having varied levels and enemies, and then add power ups for progression during runs.
