@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 2 Dev Diary"
+date:   2022-03-07 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+Day 2 here we go.
+
+## System Building
+
+I made some good progress today. Ultimately the outcome is that the game is now "system complete" - which is to say that all the major gameplay systems are in place. This is another big milestone after yesterday. It means that from now everything should be iteration to improve these systems and content authoring to fill out the game with more content. It's possible I may sneak in some stretch goals later in the week but that's dependent on continued good progress.
+
+## Core Gameplay
+
+I did some iteration on the core gameplay. Now you can actually charge the power of your shots which is a significant improvement. The UI that shows this is a little wonky but that can be improved later. There's also now UI displaying stats for the active character and for anything you mouse over. It's starting to resemble a fun game I think.
+
+![First Gameplay]({{site.url}}/assets/7drl_2022_second_gameplay.gif)
+
+## Level Variety
+
+I put in the systems for picking different levels, and randomising what goes in them. This is my procedural generation aspect of the roguelike - fairly light, not full level generation, but it should create variety in runs with enough level layouts and content to go in them. Hopefully building levels should get more like just assembling pieces quickly to allow a good amount of variety.
+
+## Final Boss
+
+The game now has a final boss and a special arena to fight him in. Nothing special yet, just bigger stats, but the potential is there.
+
+## Powerups and Abilities
+
+You now get powerups between levels. You get a choice of 2 to pick from (may well change when there are more available). There are basic stat increases, as well as abilities. Abilities are usable with charges per-encounter. There's some UI around selecting and firing them which is just about functional. Incidentally, I've created a Skeleton Archer enemy that shoots at you which was an easy way to test some of the bits that went into this before the whole system was built out.
+
+![Designs]({{site.url}}/assets/7drl_2022_powerups.png)
+
+## Time Spent
+
+I put in **8 hours** today again. I'm starting to feel fairly fatigued this evening as I write this. 8 hours with breaks doesn't sound like a lot, but it's 8 hours of very focused and intensive work. Tomorrow I think I may put in 6-7 hours more front loaded in the morning/afternoon so I can have an evening off without "losing a day".
+
+## Next Steps
+
+Tomorrow I'm going to work on graphics and sound. I need to pick a visual style and apply it throughout the game. This may have some impact on gameplay so I want to get the initial work done now before there's too much stuff to update. I'm also trying to get sound in early as I often neglect it in jam games and it really adds a lot.
