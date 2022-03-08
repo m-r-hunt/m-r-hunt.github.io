@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 3 Dev Diary"
+date:   2022-03-08 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+Time for day 3.
+
+## Graphical Overhaul
+
+Most of today was spent on graphics. I've gone with mostly high-res nice graphics for most elements, with pixel art icons for enemy portraits and skills. I hope this will come across as intentional and not just look bad/lazy. I went with the pixel art because it was much easier to find decent quality pixel art assets than high res paintings or similar.
+
+![Third Gameplay]({{site.url}}/assets/7drl_2022_third_gameplay.png)
+
+I'm not sure it's really brilliant stuff, but at least the game hangs together with a coherent look now rather than default Godot theme and graphics I threw together as fast as possible.
+
+![Third Gameplay]({{site.url}}/assets/7drl_2022_menu.png)
+
+## Sound
+
+I now have sound, and it's not even the last minute. Put in some "dungeon ambience" in lieu of music, I think I like the effect. Also put in some basic UI response sounds and some clicks and disk hit sounds, which all adds to the game feel. Probably could do with some more work but at least it's all set up.
+
+## Time Spent
+
+**6 hours** today. As mentioned yesterday I'm finishing relatively early and taking the evening off to recharge a bit. Feeling better than yesterday evening but I think I might get really tired if I go all evening today.
+
+## Next Steps
+
+Tomorrow I'm going to make a bunch of content and start to work on balancing the game into a coherent experience. Levels, enemies, and powerups all need to be expanded and then I can fiddle with some numbers.
