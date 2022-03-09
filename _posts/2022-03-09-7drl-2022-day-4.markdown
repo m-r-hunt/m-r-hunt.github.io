@@ -21,6 +21,10 @@ I made it so you now get 2 equipment items and 2 abilities to pick from in each 
 
 All of this was mixed in with some other odd improvements and bug fixes to the game.
 
+## Naming the Game
+
+I've been utterly failing to come up with a name, so I threw it open to my friends. Thanks to Alex for suggesting "Knights of the Round" which I tweaked into "Knights in the Round" which I think is striking and fits pretty well.
+
 ## Exporting and Uploading
 
 I set up my itch page and the process for exporting and uploading builds. It's always a good idea to get this in early so that you're not panicking at the last minute. It did take a bit of faffing around to get everything working so really proved the wisdom of sorting it early. One really concrete step closer to being finished.
