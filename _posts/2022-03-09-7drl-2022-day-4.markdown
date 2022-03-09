@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 4 Dev Diary"
+date:   2022-03-09 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+It's day 4 and we're past half way done!
+
+## Content
+
+The bulk of today was spend on adding more content to the game.
+
+More enemies: I added more enemies, including a new type of healer enemy that tries to heal its own teammates if they have lost health. I also added a "tiered" enemy system, with harder variants to appear later in the game.
+
+![Enemies]({{site.url}}/assets/7drl_2022_enemies.png)
+
+More abilities/powerups: I added a few more usable abilities in addition to the bow. It was fairly smoothing getting these in with the systems I've already set up. I also changed the "stat up" powerups to be equipment items that improve your stats, and made a bunch of those. There were also sorted into a "tiered" system so when you start seeing harder enemies you also start to get better gear.
+
+I made it so you now get 2 equipment items and 2 abilities to pick from in each shop. I think this is about right in terms of giving the player meaningful choices and consistent access to the bits they need.
+
+All of this was mixed in with some other odd improvements and bug fixes to the game.
+
+## Exporting and Uploading
+
+I set up my itch page and the process for exporting and uploading builds. It's always a good idea to get this in early so that you're not panicking at the last minute. It did take a bit of faffing around to get everything working so really proved the wisdom of sorting it early. One really concrete step closer to being finished.
+
+![Itch Page]({{site.url}}/assets/7drl_2022_itch.png)
+
+## Time Spent
+
+I worked **9 hours** today. Really solid day's work without much distraction. This will probably be the most work except for possibly Saturday.
+
+## Next Steps
+
+Honestly everything's going really well and if I can maintain this level of focus and effort I think I'll end up with a really solid project. My rough plan for the second half of the jam is:
+
+* Thursday - Polish features
+* Friday - Even more content and stretch goals
+* Saturday - Final playtesting, bugfixing and balancing, and get it over the finish line
