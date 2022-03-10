@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 5 Dev Diary"
+date:   2022-03-10 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+On the 5th day of 7drl, my true love gave to me, five goooold coins.
+
+## Polish
+
+All of what I did today was polish features. My general finding with this has been that no individual polish task is important, but when you add all of them up it takes a game over the line from a janky prototype to something that starts to feel finished and good to play. So today I pretty much just burned through this list.
+
+![Polish]({{site.url}}/assets/7drl_2022_polish_todos.png)
+
+So no massive obvious improvements but a lot of things are just a little better and we're closer to really being good to play.
+
+## Time Spent
+
+I worked **6 hours** today. Woke up feeling kind of headachey and I've been tired all day so I'm finishing up early rather than working into the evening again. Hopefully will have a good amount of energy for tomorrow and Saturday.
+
+## Next Steps
+
+Pretty much on track as I said yesterday, so we're looking at:
+
+* Friday - Even more content and stretch goals. Really need to focus on level layouts as that's the biggest thing that's currently lacking.
+* Saturday - Final playtesting, bugfixing and balancing, and get it over the finish line
