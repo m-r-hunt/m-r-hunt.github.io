@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 6 Dev Diary"
+date:   2022-03-11 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+Day 6, the end is in sight.
+
+## Even More Content
+
+A lot of today was spent on implementing even more content. I added some more level layouts (could do with even more though). I also added several more activated abilities which should really improve variety across runs.
+
+## Stretch Goal - Classes
+
+I added selectable character classes when starting a run. This was a feature I always wanted to get it, but wasn't sure if I had time. In the end, it's a pretty stripped down version compared to some wild plans I had, but it works and changes your starting skill and name and portrait. Also 2 of the 3 are locked until you beat the game for the first time, which should hopefully encourage some replayability (roguelike dev pro tip - triple your playtime with this one weird trick).
+
+## Bouncy Corpses
+
+One little brainwave I had was to just... not despawn corpses (which were already bouncing around after death). This adds a little more physicsy chaos which fits with the general vibe of the game.
+
+## Visuals and Branding
+
+I tightened up the colour scheme of the level geometry/scenery. I also fixed up the branding stuff on the Itch.io page which means the game really is ready to roll now.
+
+## Time Spent
+
+I worked **8 hours** today. Feeling better today. Hopefully I've got the stamina to push through to the end tomorrow.
+
+## Next Steps
+
+Final day tomorrow. I have this list of things to knock out early:
+
+![Polish]({{site.url}}/assets/7drl_2022_final_tasks.png)
+
+After that it should be playtesting, with a focus on fixing any remaining bugs and balancing the game. I also solicited some last minute testing by some friends so I might be able to make some last minute changes based on anything that throws up.
+
+And then finallly upload the last build, make the game page public, and submit to the jam. And then sleep.
