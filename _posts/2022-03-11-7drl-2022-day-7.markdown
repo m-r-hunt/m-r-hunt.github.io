@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "7DRL 2022 - Day 6 Dev Diary"
-date:   2022-03-11 12:00:00 +0000
+title:  "7DRL 2022 - Day 7 Dev Diary"
+date:   2022-03-12 12:00:00 +0000
 categories: gamedev 7drl
 ---
 
