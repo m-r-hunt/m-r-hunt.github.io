@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "7DRL 2022 - Day 6 Dev Diary"
+date:   2022-03-11 12:00:00 +0000
+categories: gamedev 7drl
+---
+
+Day 7! No burying the lede, the [game was released](https://mrhthepie.itch.io/knights-in-the-round).
+
+## Final TODOs
+
+Firstly I finished off my last few todo items from the list posted yesterday. A few final pieces of polishing, and some more level layouts.
+
+## Playtesting and Bugfixing
+
+I had some reports coming in from my friends, and I played through the game myself. I rebalanced everything to give the game a hopefully reasonable level of challenge.
+
+I spent a long time trying to sort out some bugs around selecting and using abilities. I ripped out the whole charge-tracking system and rebuilt it using polling instead of events, but that didn't really fix anything (helped me to be more certain it wasn't a dumb bug hiding there). In the end it was two related things, a bug in the implementation of some abilities so they weren't actually firing, and a bug in the player firing code so abilities weren't getting used. Quite frustrating, got there in the end.
+
+In the end I decided to release when I had the game in a good state rather than working up until midnight or whatever.
+
+## Time Spent
+
+I worked about **6 hours** today. My time tracking system broke down a little bit but I was just working to get finished anyway. I unironically think this week is the hardest I've worked in my adult post-university life (no one tell my current or former employers).
+
+## Next Steps
+
+Sleep 24/7. Then probably start another game project...
