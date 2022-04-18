@@ -21,7 +21,7 @@ Progress feels kind of slow because it feels like every time I come to add somet
 
 ## AI Work
 
-I want to have more sophisticated AI in this game than I've put into other projects. I think this will add a lot to the combat experience. The canonical way to do this in game development is [behaviour trees](https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control\)). I've been doing [some research](https://ia804501.us.archive.org/29/items/pdfy-G4Wm9sq1LU298rm3/behavior-trees-ai.pdf) and thinking, and my current theory is that I will set up a behaviour tree system and use it to script all the enemies/NPCs. This is, of course, another big foundational system I need to get working before I can move on. Haven't started coding it yet but I think I'm just about ready.
+I want to have more sophisticated AI in this game than I've put into other projects. I think this will add a lot to the combat experience. The canonical way to do this in game development is [behaviour trees](https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)). I've been doing [some research](https://ia804501.us.archive.org/29/items/pdfy-G4Wm9sq1LU298rm3/behavior-trees-ai.pdf) and thinking, and my current theory is that I will set up a behaviour tree system and use it to script all the enemies/NPCs. This is, of course, another big foundational system I need to get working before I can move on. Haven't started coding it yet but I think I'm just about ready.
 
 ## Time Spent
 
