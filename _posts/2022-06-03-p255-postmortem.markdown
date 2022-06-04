@@ -7,6 +7,8 @@ categories: p255
 
 In April of 2017 (exact date lost to history) I set myself a [challenge](https://mechtoast.com/player-255): play through a list of the 255 best rated Gameboy Advance games, in a randomized order. Today, a little more than 5 years later, I have completed that challenge. I have preserved my original post describing the challenge on my website [here](https://mechtoast.com/player-255/about.html).
 
+![Final Game Credits]({{site.url}}/assets/wimm-credits.png)
+
 Honestly I'm as surprised as anyone that I actually followed through and completed the challenge. I've started many projects with lofty goals that have fallen through, usually after a few weeks or months. Really what allowed this to succeed is that playing retro games has just become one of my hobbies that I enjoy doing on a regular basis, and the Player 255 challenge structure just provided a constant stream of games to play, along with some motivation to complete games that I've never gotten around to actually finishing before. From this perspective, it was massively succesful.
 
 ## What I've Learned
@@ -31,17 +33,23 @@ Awarded for best game that I like the most.
 
 [Metroid: Zero Misson](https://mechtoast.com/player-255/mzm.html) - It's a pretty easy pick for me. There's a reason why this is the only game I'm on the [speedrun leaderboard](https://www.speedrun.com/mzm/run/zx4dr78y) for.
 
+![Metroid: Zero Misson Title Screen]({{site.url}}/assets/mzm-title.png)
+
 ### Biggest Turd Award
 
 Awarded for worst game that I liked the least.
 
 [CIMA: The Enemy](https://mechtoast.com/player-255/cima.html) - I really disliked this game, and it left a lasting psychological scar as maybe my most hated game ever. It was so exciting to play a new game that I knew nothing about and seemed cool, and then it turned out to be just terrible.
 
+![CIMA: The Enemy Title Screen]({{site.url}}/assets/cima-title.png)
+
 ### Hidden Gem Award
 
 Awarded for best game that I knew nothing about before the challenge.
 
 [Gunstar Super Heroes](https://mechtoast.com/player-255/gsh.html) - This was the only game to get the coveted 5/5 that I had no idea what to expect going in. Really fun action platformer, heavy on fun and varied gameplay, light on annoying bullshit.
+
+![Gunstar Super Heroes Title Screen]({{site.url}}/assets/gsh-title.png)
 
 I want to throw in some runners-up here because there were some good ones. [Ninja Five-O aka Ninja Cop](https://mechtoast.com/player-255/nf.html) - ninja policeman simulator that turned out to be pretty good. [Disney's Chicken Little](https://mechtoast.com/player-255/cl.html) - inexplicably decent kid's film tie-in platformer that I apparently enjoyed. [Sabre Wulf](https://mechtoast.com/player-255/sw.html) - wierdo puzzle platformer with a unique structure and a lot going on.
 
