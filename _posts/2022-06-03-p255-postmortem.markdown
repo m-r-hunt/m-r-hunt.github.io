@@ -9,7 +9,7 @@ In April of 2017 (exact date lost to history) I set myself a [challenge](https:/
 
 Honestly I'm as surprised as anyone that I actually followed through and completed the challenge. I've started many projects with lofty goals that have fallen through, usually after a few weeks or months. Really what allowed this to succeed is that playing retro games has just become one of my hobbies that I enjoy doing on a regular basis, and the Player 255 challenge structure just provided a constant stream of games to play, along with some motivation to complete games that I've never gotten around to actually finishing before. From this perspective, it was massively succesful.
 
-# What I've Learned
+## What I've Learned
 
 The biggest thing I've learned over the course of this challenge is that I did a bad job of putting together my list of games. I set the bar too low, and as a result I've played a lot of games that are either mediocre, or actively bad. The motivation for this was that there were some games I knew I wanted to play with lower scores, and I set the bar lower to include them. In hindsight, I should have just cherrypicked in games with scores <80 that I knew I wanted to play, and not included all the garbage in the 70-80 range that came with it. One of the big results of this mistake was that I ended up with a much lower completion rate than I anticipated, because I just got fed up with a lot of the games in the challenge and dropped them. I think this was a good decision, rather than letting the challenge stall and/or die.
 
@@ -23,21 +23,21 @@ I also learned that on the GBA, game designers had not yet figured out that mech
 
 I developed a tool to randomise the game list and record information about the challenge as I went, which evolved a lot over the challenge, and I'm going to write a seperate post detailing that as it will be somewhat technical and of most interest to the programmers I know. Coming Soon(tm).
 
-# Awards
+## Awards
 
-## GOAT Award
+### GOAT Award
 
 Awarded for best game that I like the most.
 
 [Metroid: Zero Misson](https://mechtoast.com/player-255/mzm.html) - It's a pretty easy pick for me. There's a reason why this is the only game I'm on the [speedrun leaderboard](https://www.speedrun.com/mzm/run/zx4dr78y) for.
 
-## Biggest Turd Award
+### Biggest Turd Award
 
 Awarded for worst game that I liked the least.
 
 [CIMA: The Enemy](https://mechtoast.com/player-255/cima.html) - I really disliked this game, and it left a lasting psychological scar as maybe my most hated game ever. It was so exciting to play a new game that I knew nothing about and seemed cool, and then it turned out to be just terrible.
 
-## Hidden Gem Award
+### Hidden Gem Award
 
 Awarded for best game that I knew nothing about before the challenge.
 
@@ -45,11 +45,11 @@ Awarded for best game that I knew nothing about before the challenge.
 
 I want to throw in some runners-up here because there were some good ones. [Ninja Five-O aka Ninja Cop](https://mechtoast.com/player-255/nf.html) - ninja policeman simulator that turned out to be pretty good. [Disney's Chicken Little](https://mechtoast.com/player-255/cl.html) - inexplicably decent kid's film tie-in platformer that I apparently enjoyed. [Sabre Wulf](https://mechtoast.com/player-255/sw.html) - wierdo puzzle platformer with a unique structure and a lot going on.
 
-# Statistics and Graphs
+## Statistics and Graphs
 
 I collected data throughout the challenge, now it's time to analyze it.
 
-## Ratings
+### Ratings
 
 I rated each game on a scale of 1-5 stars, 1 being terrible and 5 being amazing. Here's a chart:
 
@@ -57,19 +57,19 @@ I rated each game on a scale of 1-5 stars, 1 being terrible and 5 being amazing.
 
 Naively I'd assume/aim for a bell curve centered on 3 star ratings. I ended up not crazy far off that, but with the peak landing between 2 and 3, and it seems I was generally a lot more enclined to hand out 2s than 1s.
 
-## Timing
+### Timing
 
 I recorded the date that I finished each game. First up we can view the progress through the whole challenge:
 
 ![Progress by Date]({{site.url}}/assets/p255_progress_by_date.png)
 
-Here we can see that progress was "bursty", with certain games taking a long time followed by a burst of quick progress. Next let's look at the count of games that took different numbers of days to complete:
+Here we can see that progress was "bursty", with certain games taking a long time followed by a burst of quick progress. There's also a visible period near the end of fast progression, where I started playing daily as part of my routine to push to the end. Next let's look at the count of games that took different numbers of days to complete:
 
 ![Time Taken per Game]({{site.url}}/assets/p255_time_taken_per_game.png)
 
 Here we can see the "long tail" type distribution more clearly, with most games taking a short amount of time and a long tail of long times. I had 104 games taking 0 days (i.e. completed the same day as the last one) and 41 taking 1 day. The longest game, at 206 days, was [Golden Sun: The Lost Age](https://mechtoast.com/player-255/gs.html).
 
-## Completion Status
+### Completion Status
 
 Despite my lofty ambitions I didn't complete every game in the challenge, not even close. Here's a breakdown:
 
@@ -77,7 +77,7 @@ Despite my lofty ambitions I didn't complete every game in the challenge, not ev
 
 So a little more than half incomplete, plus some "other"s which are games that don't have a main story/definite end point.
 
-# Player 255: The Next Generation
+## Player 255: The Next Generation
 
 As I mentioned above, playing retro games for Player 255 has become one of my hobbies and a part of my life. So in order to not leave a big hole, I'm just going on to a new iteration of the challenge immediately.
 
@@ -89,6 +89,6 @@ I have a few goals for the DS challenge. I want to raise my completion rate sign
 
 It will be a little bit before the DS challenge website exists as I need to figure out the logistics of hosting it alongside the existing finished GBA challenge website. Also Coming Soon(tm).
 
-# Fin
+## Fin
 
 Anyway that's it, thanks for reading, and for supporting me through the challenge if you've ever listened to me ramble about GBA games or complain about bad tie-in platformers etc.
