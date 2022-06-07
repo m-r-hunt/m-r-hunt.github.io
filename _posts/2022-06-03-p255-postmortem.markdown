@@ -85,6 +85,22 @@ Despite my lofty ambitions I didn't complete every game in the challenge, not ev
 
 So a little more than half incomplete, plus some "other"s which are games that don't have a main story/definite end point.
 
+### Screenshot Montages
+
+Here are a few montages made out of the screenshots I collected along the way. While making these I uncovered a few mistakes and discrepancies where some screenshots are missing or mislabeled. I've decided not to go back and fix those, as it would feel like rewriting history, but leave them as "easter eggs".
+
+First, a collection of all the title screens I saw:
+
+![Title Screen Montage]({{site.url}}/assets/p255_title_montage.png)
+
+Next, all the credits screens:
+
+![Credits Screen Montage]({{site.url}}/assets/p255_credits_montage.png)
+
+Finally, a shuffled up collection of gameplay screenshots:
+
+![Credits Screen Montage]({{site.url}}/assets/p255_gameplay_montage.png)
+
 ## Player 255: The Next Generation
 
 As I mentioned above, playing retro games for Player 255 has become one of my hobbies and a part of my life. So in order to not leave a big hole, I'm just going on to a new iteration of the challenge immediately.
