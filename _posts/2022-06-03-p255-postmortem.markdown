@@ -11,48 +11,6 @@ In April of 2017 (exact date lost to history) I set myself a [challenge](https:/
 
 Honestly I'm as surprised as anyone that I actually followed through and completed the challenge. I've started many projects with lofty goals that have fallen through, usually after a few weeks or months. Really what allowed this to succeed is that playing retro games has just become one of my hobbies that I enjoy doing on a regular basis, and the Player 255 challenge structure just provided a constant stream of games to play, along with some motivation to complete games that I've never gotten around to actually finishing before. From this perspective, it was massively succesful.
 
-## What I've Learned
-
-The biggest thing I've learned over the course of this challenge is that I did a bad job of putting together my list of games. I set the bar too low, and as a result I've played a lot of games that are either mediocre, or actively bad. The motivation for this was that there were some games I knew I wanted to play with lower scores, and I set the bar lower to include them. In hindsight, I should have just cherrypicked in games with scores <80 that I knew I wanted to play, and not included all the garbage in the 70-80 range that came with it. One of the big results of this mistake was that I ended up with a much lower completion rate than I anticipated, because I just got fed up with a lot of the games in the challenge and dropped them. I think this was a good decision, rather than letting the challenge stall and/or die.
-
-I learned when to play on easy. For a good few games that offered difficulty settings, I picked easy. And I think I had more fun with those than I would have on normal or hard. Particularly for games that aren't that amazing, I'd rather have a nice easy stroll through a game, rather than suffer a game that is both not that great and long and frustrating. Similarly, on a few occaisions I employed cheats, usually to get myself over the finish line when I was close to the end and encountered a difficulty spike. Again, infrequent use of cheats can definitely improve my overall experience when I'm not that invested in finishing a game "properly".
-
-I learned that I don't actually like platformers that much. The greats like Mario, Metroid, Castlevania, etc. are great and I had a lot of fun with them. But as soon as a platformer falls out of those lofty heights I really don't enjoy it that much. This is in contrast to top down action/adventure/RPGish games that I often felt I had more fun with similar mediocre review scores. It really didn't help that platformer is the "default" genre on the GBA, there are just a lot of them and most tie-ins go down that route when they don't have another obvious direction.
-
-My relationship with JRPGs really evolved over the course of the challenge. Previously I was under the illusion that I liked them, but lacked the persistence to finish them. As it turns out, I don't really like them a lot of the time and my previous lack of persistence was a defence mechanism that kicked in when I started to get bored or annoyed with them. I did figure out seperately that I can quite enjoy a JRPG if I approach it correctly and play it as a slow burner rather than trying to focus my full attention on it. Similarly to platformers, there's a small core of games like Mario & Luigi or Golden Sun that are really well made and rise out of the genre though.
-
-I also learned that on the GBA, game designers had not yet figured out that mechanics like "lives and game overs" that just extend a game's playtime arbitrarily are bad. I think there was a shift happening over the PS1-PS3 era, where before that time games struggled to pack in enough content and used these tactics to add value artificially. After that time we reached the modern era where mainstream games are actually pretty easy (at least on normal difficulty) and a lot of effort is put into designing them to push players along and not get them stuck. The death of "lives and game overs" as a common mechanic is a pretty clear indicator of this (almost ubiquitous before, almost unheard-of now). The GBA is still saddled with stuff like this in a lot of cases and suffers as a result.
-
-I developed a tool to randomise the game list and record information about the challenge as I went, which evolved a lot over the challenge, and I'm going to write a seperate post detailing that as it will be somewhat technical and of most interest to the programmers I know. Coming Soon(tm).
-
-## Awards
-
-### GOAT Award
-
-Awarded for best game that I like the most.
-
-[Metroid: Zero Misson](https://mechtoast.com/player-255/mzm.html) - It's a pretty easy pick for me. There's a reason why this is the only game I'm on the [speedrun leaderboard](https://www.speedrun.com/mzm/run/zx4dr78y) for.
-
-![Metroid: Zero Misson Title Screen]({{site.url}}/assets/mzm-title.png)
-
-### Biggest Turd Award
-
-Awarded for worst game that I liked the least.
-
-[CIMA: The Enemy](https://mechtoast.com/player-255/cima.html) - I really disliked this game, and it left a lasting psychological scar as maybe my most hated game ever. It was so exciting to play a new game that I knew nothing about and seemed cool, and then it turned out to be just terrible.
-
-![CIMA: The Enemy Title Screen]({{site.url}}/assets/cima-title.png)
-
-### Hidden Gem Award
-
-Awarded for best game that I knew nothing about before the challenge.
-
-[Gunstar Super Heroes](https://mechtoast.com/player-255/gsh.html) - This was the only game to get the coveted 5/5 that I had no idea what to expect going in. Really fun action platformer, heavy on fun and varied gameplay, light on annoying bullshit.
-
-![Gunstar Super Heroes Title Screen]({{site.url}}/assets/gsh-title.png)
-
-I want to throw in some runners-up here because there were some good ones. [Ninja Five-O aka Ninja Cop](https://mechtoast.com/player-255/nf.html) - ninja policeman simulator that turned out to be pretty good. [Disney's Chicken Little](https://mechtoast.com/player-255/cl.html) - inexplicably decent kid's film tie-in platformer that I apparently enjoyed. [Sabre Wulf](https://mechtoast.com/player-255/sw.html) - wierdo puzzle platformer with a unique structure and a lot going on.
-
 ## Statistics and Graphs
 
 I collected data throughout the challenge, now it's time to analyze it.
@@ -102,6 +60,48 @@ Next, all the credits screens:
 Finally, a shuffled up collection of gameplay screenshots:
 
 ![Credits Screen Montage]({{site.url}}/assets/p255_gameplay_montage.png)
+
+## Awards
+
+### GOAT Award
+
+Awarded for best game that I like the most.
+
+[Metroid: Zero Misson](https://mechtoast.com/player-255/mzm.html) - It's a pretty easy pick for me. There's a reason why this is the only game I'm on the [speedrun leaderboard](https://www.speedrun.com/mzm/run/zx4dr78y) for.
+
+![Metroid: Zero Misson Title Screen]({{site.url}}/assets/mzm-title.png)
+
+### Biggest Turd Award
+
+Awarded for worst game that I liked the least.
+
+[CIMA: The Enemy](https://mechtoast.com/player-255/cima.html) - I really disliked this game, and it left a lasting psychological scar as maybe my most hated game ever. It was so exciting to play a new game that I knew nothing about and seemed cool, and then it turned out to be just terrible.
+
+![CIMA: The Enemy Title Screen]({{site.url}}/assets/cima-title.png)
+
+### Hidden Gem Award
+
+Awarded for best game that I knew nothing about before the challenge.
+
+[Gunstar Super Heroes](https://mechtoast.com/player-255/gsh.html) - This was the only game to get the coveted 5/5 that I had no idea what to expect going in. Really fun action platformer, heavy on fun and varied gameplay, light on annoying bullshit.
+
+![Gunstar Super Heroes Title Screen]({{site.url}}/assets/gsh-title.png)
+
+I want to throw in some runners-up here because there were some good ones. [Ninja Five-O aka Ninja Cop](https://mechtoast.com/player-255/nf.html) - ninja policeman simulator that turned out to be pretty good. [Disney's Chicken Little](https://mechtoast.com/player-255/cl.html) - inexplicably decent kid's film tie-in platformer that I apparently enjoyed. [Sabre Wulf](https://mechtoast.com/player-255/sw.html) - wierdo puzzle platformer with a unique structure and a lot going on.
+
+## What I've Learned
+
+The biggest thing I've learned over the course of this challenge is that I did a bad job of putting together my list of games. I set the bar too low, and as a result I've played a lot of games that are either mediocre, or actively bad. The motivation for this was that there were some games I knew I wanted to play with lower scores, and I set the bar lower to include them. In hindsight, I should have just cherrypicked in games with scores <80 that I knew I wanted to play, and not included all the garbage in the 70-80 range that came with it. One of the big results of this mistake was that I ended up with a much lower completion rate than I anticipated, because I just got fed up with a lot of the games in the challenge and dropped them. I think this was a good decision, rather than letting the challenge stall and/or die.
+
+I learned when to play on easy. For a good few games that offered difficulty settings, I picked easy. And I think I had more fun with those than I would have on normal or hard. Particularly for games that aren't that amazing, I'd rather have a nice easy stroll through a game, rather than suffer a game that is both not that great and long and frustrating. Similarly, on a few occaisions I employed cheats, usually to get myself over the finish line when I was close to the end and encountered a difficulty spike. Again, infrequent use of cheats can definitely improve my overall experience when I'm not that invested in finishing a game "properly".
+
+I learned that I don't actually like platformers that much. The greats like Mario, Metroid, Castlevania, etc. are great and I had a lot of fun with them. But as soon as a platformer falls out of those lofty heights I really don't enjoy it that much. This is in contrast to top down action/adventure/RPGish games that I often felt I had more fun with similar mediocre review scores. It really didn't help that platformer is the "default" genre on the GBA, there are just a lot of them and most tie-ins go down that route when they don't have another obvious direction.
+
+My relationship with JRPGs really evolved over the course of the challenge. Previously I was under the illusion that I liked them, but lacked the persistence to finish them. As it turns out, I don't really like them a lot of the time and my previous lack of persistence was a defence mechanism that kicked in when I started to get bored or annoyed with them. I did figure out seperately that I can quite enjoy a JRPG if I approach it correctly and play it as a slow burner rather than trying to focus my full attention on it. Similarly to platformers, there's a small core of games like Mario & Luigi or Golden Sun that are really well made and rise out of the genre though.
+
+I also learned that on the GBA, game designers had not yet figured out that mechanics like "lives and game overs" that just extend a game's playtime arbitrarily are bad. I think there was a shift happening over the PS1-PS3 era, where before that time games struggled to pack in enough content and used these tactics to add value artificially. After that time we reached the modern era where mainstream games are actually pretty easy (at least on normal difficulty) and a lot of effort is put into designing them to push players along and not get them stuck. The death of "lives and game overs" as a common mechanic is a pretty clear indicator of this (almost ubiquitous before, almost unheard-of now). The GBA is still saddled with stuff like this in a lot of cases and suffers as a result.
+
+I developed a tool to randomise the game list and record information about the challenge as I went, which evolved a lot over the challenge, and I'm going to write a seperate post detailing that as it will be somewhat technical and of most interest to the programmers I know. Coming Soon(tm).
 
 ## Player 255: The Next Generation
 
