@@ -89,6 +89,8 @@ So a little more than half incomplete, plus some "other"s which are games that d
 
 Here are a few montages made out of the screenshots I collected along the way. While making these I uncovered a few mistakes and discrepancies where some screenshots are missing or mislabeled. I've decided not to go back and fix those, as it would feel like rewriting history, but leave them as "easter eggs".
 
+All these images are made of full resolution screenshots, shrunk down to fit on the page. `Right Click > Open Image in a New Tab` or similar to view them at full size.
+
 First, a collection of all the title screens I saw:
 
 ![Title Screen Montage]({{site.url}}/assets/p255_title_montage.png)
