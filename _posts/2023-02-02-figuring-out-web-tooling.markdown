@@ -7,7 +7,7 @@ categories: programming
 
 Last time, I got [Rust code compiling to Web Assembly and running in a browser with minimal tools.]({{site_url}}/blog/programming/rust-in-browser-without-bullshit/)
 
-Recently I've been learning some more traditional web development techniques. Namely CSS and React via some excellent courses (with Javascript picked up along the way since I've had some exposure to it).
+Recently I've been learning some more traditional web development techniques. Namely CSS and React via [some excellent courses](https://www.joshwcomeau.com/courses/) (with Javascript picked up along the way since I've had some exposure to it).
 
 This means I needed to figure out the tools that I previously railed against in my last article. Some of my prejudices were correct I think. There's a culture in web programming of chucking in complex tools and dependencies which isn't overly helpful. Part of the problem is the more general problem in programming of documentation accidentally being unhelpful when you're completely new to the subject, don't know the buzzwords, etc.
 
@@ -21,17 +21,17 @@ Before starting I needed to decide what the major dependencies I wanted to use w
 * What framework? As the joke goes, new one every week.
 * Any other bits I know I'll need?
 
-For language, I landed on Typescript. I prefer static types over dynamic, and Typescript seems to be well supported and popular. It's a thin layer over plain JS which I think is a good approach. Seems like everyone has Typescript bindings available for their libraries so it's easy to use with basically anything.
+For language, I landed on [Typescript](https://www.typescriptlang.org). I prefer static types over dynamic, and Typescript seems to be well supported and popular. It's a thin layer over plain JS which I think is a good approach. Seems like everyone has Typescript bindings available for their libraries so it's easy to use with basically anything.
 
-For framework, as I mentioned above I was learning React from a course I found online, and I'm not at the stage of wanting to try anything else. However, somewhat on a whim, I decided to try out Preact. This is a React alternative, that claims to be smaller and faster with the same feature set. It has a compatibility layer for full React compatibility so you can use the whole existing ecosystem (theoretically, haven't pushed it too hard yet).
+For framework, as I mentioned above I was learning [React](https://reactjs.org/) from a course I found online, and I'm not at the stage of wanting to try anything else. However, somewhat on a whim, I decided to try out [Preact](https://preactjs.com). This is a React alternative, that claims to be smaller and faster with the same feature set. It has a compatibility layer for full React compatibility so you can use the whole existing ecosystem (theoretically, haven't pushed it too hard yet).
 
 Quick digression: do we even need a big framework? Can't we just use [Vanilla.js](http://vanilla-js.com/)? Obviously you can just write everything the old fashioned way. But frameworks like React simplify developing complex UI by automating the "mucking about with DOM elements" bit of web programming and just let you focus on writing the interesting behaviour of your app. I've been convinced that they are broadly speaking A Good Idea if your goal is to write complex interactive web pages. You sacrifice some performance over theoretical hyperoptimized pure JS, but if I wanted incredible bare metal performance I'd go away and write desktop apps in C.
 
-Finally, I decided to use HTM over JSX. For anyone unfamiliar, the TLDR is that these are ways to write HTML-like syntax directly in Javascript which is a nice convenience. HTM is a newer and less common option but it has the advantage that it's implement as a plain JS library and doesn't require an extra build step, which is why I chose to use it.
+Finally, I decided to use [HTM](https://github.com/developit/htm) over JSX. For anyone unfamiliar, the TLDR is that these are ways to write HTML-like syntax directly in Javascript which is a nice convenience. HTM is a newer and less common option but it has the advantage that it's implement as a plain JS library and doesn't require an extra build step, which is why I chose to use it.
 
 # False Start with Preact CLI
 
-My first approach was, as recommended by the Preact docs, to use the Preact CLI tool.
+My first approach was, as recommended by the [Preact docs](https://preactjs.com/guide/v10/getting-started/), to use the Preact CLI tool.
 
 It started off smoothly enough, I installed and ran the tool to generate a typescript project from their template.
 
@@ -51,7 +51,7 @@ So having become frustrated with the Preact CLI, I chucked it in the bin and wen
 
 ## Typescript
 
-First I got Typescript working. The Typescript compiler has decent docs and it's trivial to use it as a standalone tool. Just install via NPM and run `tsc index.ts` and it will happily spit out `index.js` (or compiler errors if you have mistakes). You need to add more options or create a `tsconfig.json` file to make it really useful, but that wasn't too hard.
+First I got Typescript working. The Typescript compiler has [decent docs](https://www.typescriptlang.org/docs/handbook/intro.html) and it's trivial to use it as a standalone tool. Just install via NPM and run `tsc index.ts` and it will happily spit out `index.js` (or compiler errors if you have mistakes). You need to add more options or create a `tsconfig.json` file to make it really useful, but that wasn't too hard.
 
 I wrote a quick `index.html` to include my `index.js` script and ran a python script I had handy to serve the current directory over HTTP.
 
@@ -78,7 +78,7 @@ At this point my project was coming along but there were some major things that 
 * Javascript being sent to the browser as a bunch of little files, bad performance
 * Shonky vendored dependencies, painful to add more or update
 
-Somewhere I picked up the information that a bundler would fix this issues and that Webpack was the major player in the space, so I decided to try it out.
+Somewhere I picked up the information that a bundler would fix this issues and that [Webpack](https://webpack.js.org/) was the major player in the space, so I decided to try it out.
 
 Honestly getting started with Webpack turned out to be easier than I expected. They have [good docs](https://webpack.js.org/guides/getting-started/) and I pretty much followed their guide through "Getting Started", "Asset Management", "Output Management" and "Development". I installed the Typescript plugin early in the process which took care of compiling the code easily enough.
 
@@ -96,7 +96,7 @@ After this step, my project pretty much resembles a "real" Javascript project. I
 
 ## TODO: Babel
 
-The elephant in the room that I haven't touched is Babel. This is a tool which "transpiles" Javascript, that is, converts Javascript into more Javascript with certain changes applied. Common uses are compiling fancy new features into backwards compatible forms or "pre-calculating" certain constructs so they don't need to be done at runtime.
+The elephant in the room that I haven't touched is [Babel](https://babeljs.io/). This is a tool which "transpiles" Javascript, that is, converts Javascript into more Javascript with certain changes applied. Common uses are compiling fancy new features into backwards compatible forms or "pre-calculating" certain constructs so they don't need to be done at runtime.
 
 Babel seems to be very commonly used and I've seen a bunch of references to Babel plugins to do various things.
 
