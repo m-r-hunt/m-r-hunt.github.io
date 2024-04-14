@@ -5,6 +5,8 @@ date:   2024-04-14 12:00:00 +0000
 categories: gaming
 ---
 
+I've made my own Video Game Bingo, blatantly ripping off the [Reddit r/fantasy book bingo](https://www.reddit.com/r/Fantasy/comments/1bt4iqf/official_rfantasy_2024_book_bingo_challenge/).
+
 ## General Rules
 
 This is mainly designed around single player games that you can finish (in a reasonably finite length of time). The criteria for ticking off a square is that you "beat the game". It's hard to define this in a way that works for every game, but roughly this means "when an Any% speedrun would be finished/usually when the end credits play if the game has them and it's not some kind of a gimmick ending". But I'm sure you can find examples of games that break this definition somehow, so in that case follow your heart.
@@ -164,7 +166,7 @@ Examples: Metroid Dread, Castlevania: Symphony of the Night, Hollow Knight, Axio
 
 ### GOTY
 
-Game won Game of The Year, during any year, from one of the lists at https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards
+Game won Game of The Year, during any year, from one of the lists at [wikipedia](https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards)
 
 Hard Mode: Game only listed once on the page
 
@@ -184,7 +186,7 @@ Game features a dog (or other small cute animal) you can pet
 
 Hard Mode: Petting the dog does something (achievement, bonus item, anything else that's not just an animation)
 
-Examples: https://store.steampowered.com/curator/37676062/
+Examples: [Steam Curator](https://store.steampowered.com/curator/37676062/)
 
 ### Factory Builder
 
