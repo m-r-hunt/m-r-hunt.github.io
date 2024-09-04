@@ -127,7 +127,7 @@ But that said, having usage examples is extremely helpful for getting stuff done
 
 I had some issues with Cruby vs Mruby.
 For the unfamiliar, Cruby refers to the mainstream implementation of Ruby.
-Dragonruby doesn't use that, it uses Mruby, and eMbeddable implementation of Ruby.
+Dragonruby doesn't use that, it uses Mruby, an eMbeddable implementation of Ruby.
 This has some consequences for the end user.
 There are differences between Cruby and Mruby, and most learning material for Ruby is targetting Cruby.
 You also don't have access to the mainstream Ruby package ecosystem (gems), including even stuff that is considered the "Ruby Standard Library".
