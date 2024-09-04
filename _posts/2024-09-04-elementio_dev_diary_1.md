@@ -83,7 +83,7 @@ I'm also thinking about replacing Dragonruby's entity system with my own homegro
 One of Dragonruby's big features is its hot reloading system.
 Whenever you save Ruby code in your project, it's immediately reloaded in the running game during development.
 
-![Hot Reloading Demo]({{site.url}}/assets/elementio_hot_reloading_demo.gif)
+![Hot Reloading Demo]({{site.url}}/assets/elementio_hot_reload_demo.gif)
 
 In the past I've had pretty mixed experiences with hot reloading systems like this.
 It is nice when it works, but I've always run into issues using it for real work.
