@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putting Professional Audio in a Toy Game Project"
-date:   2025-01-01 12:00:00 +0000
+date:   2025-07-12 12:00:00 +0000
 categories: gamedev
 ---
 
@@ -19,14 +19,14 @@ If you're a gamer, you've probably seen one of those two logos popup at the star
 I didn't really have a reason to prefer one over the other.
 Both have fairly convincing lists of games they've been used in:
 
-* https://www.audiokinetic.com/en/wwise/powered-by-wwise
-* https://www.fmod.com/games
+* [WWise](https://www.audiokinetic.com/en/wwise/powered-by-wwise)
+* [FMOD](https://www.fmod.com/games)
 
 In the end I landed on FMOD because it has a very clear free license for hobbyist/noncommercial/education usage, and just lets you download it (after creating an account which was trivial).
 WWise on the other hand seemed to have a more involved process to register a non-commercial project which put me off.
 
 My goal is to get 3 kinds of sound into the game:
-* sfx, preferably with fancy stuff like variable filters and randomised pitches etc
+* sound effects, preferably with fancy stuff like variable filters and randomised pitches etc
 * background music
 * speech/VO which will be me announcing over the game
 
@@ -48,7 +48,7 @@ This makes the whole process of building easier.
 Whenever you add a C/C++ library to a project you're flipping a coin as to whether it's going to be an easy 5 minute process or like 3 hours of decoding cryptic build system errors.
 Integrating FMOD turned out to be straightforward, just a folder with some header files to add to the include path, a library to link against and a corresponding DLL to copy to the output.
 
-Then to actually use it in code, we need to create and initialise a system. N.b. for code examples I'm omiting error handling to keep them concise, but basically everything in FMOD returns an FMOD_RESULT which you have to check for error handling purposes.
+Then to actually use it in code, we need to create and initialise a system. As a general note, for code examples I'm omiting error handling to keep them concise, but basically everything in FMOD returns an FMOD_RESULT which you have to check for error handling purposes. When I made mistakes (which I definitely did during development), the error code was a useful clue to what I did wrong.
 
 ```C++
 FMOD::System *system = nullptr;
@@ -56,7 +56,7 @@ FMOD::System_Create(&system);
 system->init(512, FMOD_INIT_NORMAL, 0);
 ```
 
-FMOD supplies both a C and a C++ interface in seperate headers, throughout this I'm using the C++ interface which was convenient given I was already working in C++. The existence of a C interface means you could plugs this in to most any environment that supports FFI to C.
+FMOD supplies both a C and a C++ interface in seperate headers, throughout this I'm using the C++ interface which was convenient given I was already working in C++. The existence of a C interface means you could plug this in to pretty much any environment that supports FFI to C.
 
 I also switched on the debug logging, sending it to a file as the easiest option. This also needs you to link against the logging version of the supplied FMOD libraries, which I did.
 
@@ -84,7 +84,7 @@ All things considered, pretty straightforward and I didn't have any issues getti
 
 ## Step 2 - Using FMOD Studio
 
-Now what we got set up with in the previous section was the FMOD Core API. This is still very useful and powerful, but it is relatively low level as you have to load up and play sound files yourself. If you want effects you have to construct them in code and fiddle with the audio routing etc.
+What we got set up with in the previous section was the FMOD Core API. This is still very useful and powerful, but it is relatively low level as you have to load up and play sound files yourself. If you want effects you have to construct them in code and fiddle with the audio routing manually, and so on.
 
 What I really want to be using is the FMOD Studio GUI program where I can do all this sound designy stuff with a nice interface, and just be able to tell FMOD "trigger this sound event" from code. To do that, we need to switch over to the FMOD *Studio* API, as well as set up an FMOD project to design the audio.
 
@@ -160,7 +160,7 @@ First of all, for music tracks you usually don't want to load the whole track up
 
 ![Music file settings]({{site.url}}/assets/ps_music.png)
 
-The other thing is handling the music playlist. This can actually be done very easily within FMOD - you can use a "multi-instrument" and drop all the music tracks inside it, then set the instrument to play them shuffled and loop itself. That will create an endlessly playing background music playlist with no work on the code side apart from starting it at the right time.
+The other thing is handling the music playlist. This can actually be done very easily within FMOD - you can use a "Multi Instrument" and drop all the music tracks inside it, then set the instrument to play them shuffled and loop itself. That will create an endlessly playing background music playlist with no work on the code side apart from starting it at the right time.
 
 ![Multi-instrument setup]({{site.url}}/assets/ps_multi.png)
 
@@ -196,17 +196,41 @@ I wanted to implement a countdown synced up with the VO counting down so I had t
 
 ![Markers]({{site.url}}/assets/ps_markers.png)
 
-By default the FMOD documentation says it might call these callbacks from audio threads, and thus you would have to worry about threading issues and locking any data used from them. This does not spark joy. However you can set the `FMOD_STUDIO_INIT_DEFERRED_CALLBACKS` flag and then it will only call your callbacks on the same thread when you call `system->update()` in the game loop. This ducks any possible threading issues.
+On the code side we just create a callback function and subscribe to the callbacks when creating the event instance.
 
+```C++
+FMOD_RESULT readyCallback(FMOD_STUDIO_EVENT_CALLBACK_TYPE type, FMOD_STUDIO_EVENTINSTANCE *event, void* parameters)
+{
+    if (type == FMOD_STUDIO_EVENT_CALLBACK_TIMELINE_MARKER)
+    {
+        FMOD_STUDIO_TIMELINE_MARKER_PROPERTIES* props = static_cast<FMOD_STUDIO_TIMELINE_MARKER_PROPERTIES*>(parameters);
+        // Do stuff with marker parameters here
+    }
+    return FMOD_OK;
+}
+
+
+//...
+
+FMOD::Studio::EventDescription* ready_event = nullptr;
+system->getEvent("event:/GetReady", &ready_event);
+FMOD::Studio::EventInstance* ready_instance = nullptr;
+ready_event->createInstance(&ready_instance);
+ready_instance->setCallback(&readyCallback, FMOD_STUDIO_EVENT_CALLBACK_TIMELINE_MARKER);
+ready_instance->start();
+ready_instance->release();
+```
+
+By default the FMOD documentation says it might call these callbacks from audio threads, and thus you would have to worry about threading issues and locking any data used from them. This does not spark joy. However you can set the `FMOD_STUDIO_INIT_DEFERRED_CALLBACKS` flag and then it will only call your callbacks on the same thread when you call `system->update()` in the game loop. This ducks any possible threading issues.
 
 ## Conclusion
 
 Well, we did it. FMOD-powered Pong. Once again, you can see a video of the final result [here](https://youtu.be/Wt_Id0E54Rk). Don't worry, I'm under no illusions that this sounds amazingly professional, but I was able to achieve somethings quite easily that would be challenging to do with only a lower level audio API. The main thing holding back the sound quality is the quality of the source assets - sound effects I generated quickly with [sfxr](https://sfxr.me/), royalty free background music from the internet, my own crappy voice acting...
 
-I thought about trying to build a playable web version and uploading it. FMOD does support an Emscripten build so it should be possible. However I was having issues with getting SDL_ttf (used for the tiny amount of text rendering in the game) to build even on Windows so the prospect of making it all work on Emscripten felt like too much for this blog post. Remember when I said
+I thought about trying to build a playable web version and uploading it. FMOD does support an Emscripten build so it should be possible. However I was having issues with getting SDL_ttf (used for the tiny amount of text rendering in the game) to build even on Windows so the prospect of making it all work on Emscripten felt like too much for this blog post. Remember when I said...
 
 > Whenever you add a C/C++ library to a project you're flipping a coin as to whether it's going to be an easy 5 minute process or like 3 hours of decoding cryptic build system errors.
 
-For SDL_ttf I flipped a tails apparently. I ended up just dropping in prebuilt binaries for Windows but that won't help me with the Emscripten build.
+... for SDL_ttf I flipped a tails apparently. I ended up just dropping in prebuilt binaries for Windows but that won't help me with the Emscripten build.
 
 I'm barely scratching the surface of what you can do with FMOD obviously. There are a ton of features I haven't looked at, and I've only used the ones I did touch in some of the most basic ways possible. I also didn't really do much actual "audio programming" here, leaving all that up to FMOD and just integrating it. But I do feel that I've dipped a toe into the world of sound design and had a learning experience in integrating game middleware/tooling.
