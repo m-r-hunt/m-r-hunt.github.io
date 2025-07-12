@@ -108,7 +108,7 @@ Then we need to load the bank files produced by our built project. We need to lo
 
 ```C++
 FMOD::Studio::Bank* master_bank;
-system->loadBankFile("../../fspro/Build/Desktop/Master.bank", FMOD_STUDIO_LOAD_BANK_NORMAL, &master_bank);
+system->loadBankFile("../../fspro/Build/Desktop/Master.bank", FMOD_STUDIO_LOAD_BANK_NORMAL, &master_bank); // More hardcoded paths, again a real game would load this as an asset
 
 FMOD::Studio::Bank* strings_bank;
 system->loadBankFile("../../fspro/Build/Desktop/Master.strings.bank", FMOD_STUDIO_LOAD_BANK_NORMAL, &strings_bank);
