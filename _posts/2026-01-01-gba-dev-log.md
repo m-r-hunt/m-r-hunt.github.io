@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GBA Development Log 2026"
-date:   2026-01-01 03:00:00 +0000
+date:   2026-01-01 10:00:00 +0000
 categories: gamedev
 ---
 
