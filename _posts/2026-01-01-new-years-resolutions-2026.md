@@ -15,7 +15,7 @@ I have some history with trying to do things every day and I find it leads to bu
 
 In odd months (January, March, ...) I will work on the project at least a little bit every day.
 
-In even months (February, April, ...) I will make time for at least 1 decent 1hr+ session every week.
+In even months (February, April, ...) I will make time for at least 1 decent 1 hour+ session every week.
 
 We'll see if this works well.
 
