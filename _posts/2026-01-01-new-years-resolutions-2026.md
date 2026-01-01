@@ -26,7 +26,7 @@ I've had this thing for ages but I have not been good at wearing it.
 Part 1 is to wear it every day. Part 2 is to complete the fitness goal ring things every day. I have these set to quite a low level but I may bump it up at some point.
 
 
-## 3 - Watch a move every week
+## 3 - Watch a movie every week
 
 Yes I'm running this back (from 2024). I ended up not really watching many movies again in 2025. I'm adding one additional piece of structure which is that I'm going to have a letter of the alphabet per week. 
 
@@ -42,6 +42,6 @@ I want all my goals to be trackable and to create a report at the end of the yea
 
 2. I can look at the data that the watch tracks to check my progress on this.
 
-3. As always I log my film watching and review everything on pretentious cinephile social media site Letterboxd so I will be able to see a record of my film watching there.
+3. As always I log my film watching and review everything on pretentious cinephile social media site Letterboxd, I will be able to see a record of my film watching there.
 
 See you in a year for the wrap up.
