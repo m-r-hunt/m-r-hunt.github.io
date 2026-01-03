@@ -37,9 +37,19 @@ I have been thinking about it and I have a slightly more concrete idea to make a
 * Check for collisions with self to lose
 * Add a (simple for now) death state/animation
 
+## 3/1/26
+
+* Split out to start working on a tile graphics version of Snake
+* Spent a long time trying to compile and get an image converter to work. I am not a fan of how this image converter is built/structured and even after compiling it was annoying. Only afterwards did I find the names of some other tools in the tonc tutorial which I will try out to see if they suit me better.
+* Anyway I did eventually get a basic snake sprite tiled/converted and display it on screen in display mode 0:
+
+![Snek on screen]({{site.url}}/assets/gba2026/snek1.png)
+
 ## Current TODOS/Possible tasks
 
 * Improve my dev workflow to have a one click build + run the game
 * Figure out why sometimes the game doesn't seem to rebuild properly unless I delete the file first. Is it getting cached somewhere by mgba? (Might be due to rebuilding while mgba is still open?)
 * Better apple movement - PRNG or some kind of system with 2 tables of offsets that move out of sync
 * Better death with random dripping
+* Get a better image converter (or even write my own???)
+* Make graphical snake work
