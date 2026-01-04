@@ -45,6 +45,13 @@ I have been thinking about it and I have a slightly more concrete idea to make a
 
 ![Snek on screen]({{site.url}}/assets/gba2026/snek1.png)
 
+## 4/1/26
+* Getting the same snake gameplay working in tile mode. Little extension to what was there before, but mostly the same logic. We can't do a full screen-filling snake in this mode because there aren't enough sprites (128 vs 600 needed to fill the screen). The solution for that would be to use a tile background layer for the snake since we're drawing him grid aligned anyway. This version is also way more playable already.
+
+![Snek sprite playable]({{site.url}}/assets/gba2026/snek_tile1.gif)
+
+Still needs some work around rotating/flipping the sprites correctly to make him look correct when not travelling down +x direction.
+
 ## Current TODOS/Possible tasks
 
 * Improve my dev workflow to have a one click build + run the game
@@ -52,4 +59,5 @@ I have been thinking about it and I have a slightly more concrete idea to make a
 * Better apple movement - PRNG or some kind of system with 2 tables of offsets that move out of sync
 * Better death with random dripping
 * Get a better image converter (or even write my own???)
-* Make graphical snake work
+* Improve graphical snake alignment
+* Graphical snake death state
