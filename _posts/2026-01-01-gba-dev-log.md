@@ -59,6 +59,13 @@ Still needs some work around rotating/flipping the sprites correctly to make him
 - Switch over to use the s32/u32 style notation already used by tonc for sized integers. Try to use it consistently in my code (and ditch default ints)
 - Set up a simple script to build and run the game
 
+## 6/1/26
+
+Not much time today (may be true on Tuesdays in general)
+
+- Reading about how tile backgrounds work
+- Got a new graphics converter - grit. Seems to be widely used and was easy to compile from source. Need to try it properly but seems promising.
+
 ## Current TODOS/Possible tasks
 
 - Figure out why sometimes the game doesn't seem to rebuild properly unless I delete the file first. Is it getting cached somewhere by mgba? (Might be due to rebuilding while mgba is still open?)
