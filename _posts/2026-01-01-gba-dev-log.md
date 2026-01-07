@@ -66,6 +66,12 @@ Not much time today (may be true on Tuesdays in general)
 - Reading about how tile backgrounds work
 - Got a new graphics converter - grit. Seems to be widely used and was easy to compile from source. Need to try it properly but seems promising.
 
+## 7/1/26
+
+- Figured out grit, added to repo
+- Switched to using grit to convert the test snake image and 4bpp format. May need a teeny bit of scripting to mangle the output from grit into the right form since the C array output doesn't compile out of the box. Still like it more than the previous converter I tried though.
+- Thinking about palettes and bit depth. I think I will use 4bpp/16 colours per sprite in general as it is a nice limited number. Too many colours in pixel art is scary. I can probably come up with a consistent set of palettes (up to 16x16 colour palettes which feels like a lot), load them at startup and just use throughout. Same applies to background tiles.
+
 ## Current TODOS/Possible tasks
 
 - Figure out why sometimes the game doesn't seem to rebuild properly unless I delete the file first. Is it getting cached somewhere by mgba? (Might be due to rebuilding while mgba is still open?)
