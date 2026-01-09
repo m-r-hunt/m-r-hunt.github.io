@@ -72,6 +72,10 @@ Not much time today (may be true on Tuesdays in general)
 - Switched to using grit to convert the test snake image and 4bpp format. May need a teeny bit of scripting to mangle the output from grit into the right form since the C array output doesn't compile out of the box. Still like it more than the previous converter I tried though.
 - Thinking about palettes and bit depth. I think I will use 4bpp/16 colours per sprite in general as it is a nice limited number. Too many colours in pixel art is scary. I can probably come up with a consistent set of palettes (up to 16x16 colour palettes which feels like a lot), load them at startup and just use throughout. Same applies to background tiles.
 
+## 8/1/26
+
+- Got correct orientation of snake pieces to make it look a lot nicer. Haven't implemented corner pieces which would be kinda fiddly, this is enough for this demo for now.
+
 ## 9/1/26
 
 - Set up a basic background with background tiles. This is straightforward to do with the graphics tech we've already learned for sprites, just have to set up the right control registers and write a little bit of data for the tilemap into VRAM.
@@ -83,6 +87,4 @@ Not much time today (may be true on Tuesdays in general)
 - Figure out why sometimes the game doesn't seem to rebuild properly unless I delete the file first. Is it getting cached somewhere by mgba? (Might be due to rebuilding while mgba is still open?)
 - Better apple movement - PRNG or some kind of system with 2 tables of offsets that move out of sync
 - Better death with random dripping
-- Get a better image converter (or even write my own???)
-- Improve graphical snake alignment
 - Graphical snake death state
