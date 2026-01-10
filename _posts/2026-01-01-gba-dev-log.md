@@ -82,9 +82,49 @@ Not much time today (may be true on Tuesdays in general)
 
 ![Snek with background]({{site.url}}/assets/gba2026/snek_tile2.gif)
 
+## Planning
+
+Now I've got into the nuts and bolts of GBA graphics, I think I have a good idea of how to structure tower defence gfx. Sprites are a precious resource, so to scale the game up we want to do as much on tiles as we can. I'm going to stick to Mode 0, I don't see a use case for affine backgrounds in Mode 1/2. Our general structure is like this
+
+- BG0 - Actual background/terrain
+- BG1 - Towers and enemies. These can coexist since the enemies won't be walking where the towers are. To move enemies, we'll have animations that span 2 tiles of the enemy walking from the middle of its current tile to the middle of the next tile. We can then fill the screen with both enemies and towers, with the only limitation of 1 enemy per 2 tiles so they have enough space to animate walking
+- BG2 - Tower tops and other "foreground" graphics - this will allow us to create some sense of depth and have enemies walk behind them, etc
+- BG3 - UI/HUD graphics. I'm not sure if a tile layer is overkill for this, whether we'd be better off using sprites. But it does mean we can pause the game and have the all the rest of the graphics appear correct "behind" the pause menu.
+- OBJ - Projectiles and special effects, anything else I can think of. We've got the full 128 sprites left to use here so we should be able to get a lot of action on the screen.
+
+Here's a sketch of what we need to do to get some gameplay working
+
+- Draw some background/terrain tiles
+- Make a basic map in some kind of tilemap editor
+- Get that map into the ROM somehow, load it up with the graphics to show a map
+- Draw some towers
+- Make a basic tower placement control
+- Draw an enemy with animation to move between tiles
+- Pathfind the enemy path from some entrance to a "goal"
+- Spawn an enemy animating and moving down the path
+- Make towers shoot at the enemy
+
+Phew, that seems like a lot of bits to work through, but when we get through it we'll have a working TD game to build on.
+
+## 10/1/26
+
+- Drew some simple bg tiles to start with
+- Downloaded the Ogmo tilemap editor, copied it into the project, set up an initial project
+- Made a test map
+- Thinking about how to munge the JSON data from Ogmo into C array format. Probably going to write a script in something, I guess Python by default
+- Wrote a (very simple) python script to munge images with grit without manual intervention.
+- Loading in my background tiles and showing them, although not the map yet
+- Wrote a simple script in the same style as the grit script to mangle JSON data from the map editor into C arrays for consumption by the game
+- Got test level loading and into the game
+
+![Tilemap from editor to game]({{site.url}}/assets/gba2026/td_tilemap1.png)
+
 ## Current TODOS/Possible tasks
 
-- Figure out why sometimes the game doesn't seem to rebuild properly unless I delete the file first. Is it getting cached somewhere by mgba? (Might be due to rebuilding while mgba is still open?)
-- Better apple movement - PRNG or some kind of system with 2 tables of offsets that move out of sync
-- Better death with random dripping
-- Graphical snake death state
+- Get that map into the ROM somehow, load it up with the graphics to show a map
+- Draw some towers
+- Make a basic tower placement control
+- Draw an enemy with animation to move between tiles
+- Pathfind the enemy path from some entrance to a "goal"
+- Spawn an enemy animating and moving down the path
+- Make towers shoot at the enemy
