@@ -121,7 +121,6 @@ Phew, that seems like a lot of bits to work through, but when we get through it 
 
 ## Current TODOS/Possible tasks
 
-- Get that map into the ROM somehow, load it up with the graphics to show a map
 - Draw some towers
 - Make a basic tower placement control
 - Draw an enemy with animation to move between tiles
