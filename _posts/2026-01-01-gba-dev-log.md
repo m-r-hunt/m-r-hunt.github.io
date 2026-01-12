@@ -129,6 +129,7 @@ Phew, that seems like a lot of bits to work through, but when we get through it 
 
 - Started a small sprite sheet for UI sprite graphics. I'm going to make the cursor a sprite so I can animate it between tile grid positions
 - Drawing a cursor and let you move it around (on grid for now)
+- Set up the meson build stuff to automatically run my image and map building scripts when needed (the generated sources are now not checked in to git but live in the build directories)
 
 ## Current TODOS/Possible tasks
 
