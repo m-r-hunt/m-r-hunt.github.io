@@ -122,8 +122,13 @@ Phew, that seems like a lot of bits to work through, but when we get through it 
 ## 11/1/26
 
 - Draw a tower and load it in, draw on another bg layer
-- Figure out how backgrounds are layered, turns out I need to reverse the order of BG0-3 from what I wrote above (without using priority to explicitly set order (I  will need priority to place the sprites in between tile layers but I can sort that out later, might as well use natural ordering for now))
+- Figure out how backgrounds are layered, turns out I need to reverse the order of BG0-3 from what I wrote above (without using priority to explicitly set order (I will need priority to place the sprites in between tile layers but I can sort that out later, might as well use natural ordering for now))
 - Also thinking about how I'm laying out my tiles and map data in VRAM. Keeping it simple with tiles for all layers in CHARBLOCK 0-1, and map data in the last screenblocks counting back from the end. Have left enough space for 2x2 sized maps on the non-ui layers. I don't think I'll be hurting for VRAM space so this should be fine.
+
+## 12/1/26
+
+- Started a small sprite sheet for UI sprite graphics. I'm going to make the cursor a sprite so I can animate it between tile grid positions
+- Drawing a cursor and let you move it around (on grid for now)
 
 ## Current TODOS/Possible tasks
 
