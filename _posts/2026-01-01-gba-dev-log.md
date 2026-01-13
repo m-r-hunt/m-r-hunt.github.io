@@ -131,6 +131,20 @@ Phew, that seems like a lot of bits to work through, but when we get through it 
 - Drawing a cursor and let you move it around (on grid for now)
 - Set up the meson build stuff to automatically run my image and map building scripts when needed (the generated sources are now not checked in to git but live in the build directories)
 
+## 13/1/26
+
+Forgot my laptop today, a tuesday, so only had a bit of time late in the evening.
+
+Thinking about the drawing I need to do for enemies walking around the map as tiles, I'll need to update a lot of map data per frame, which needs to happen in VBLANK. I could have a queue of things to update in VBLANK or similar but that has overheads. What I'd like to do is just have a mirror of the layer data in RAM and copy it to VRAM during VBLANK as with OAM data. A full size layer is 64x64 tiles x2 bytes = 8kb of data to copy which I think is ok (and fits in fast IWRAM although that is a good chunk of it). I set up a simple system to check that we're getting all the stuff done during VBLANK we need to:
+
+- Immediately after VBLANK, set a tile in the UI layer to a red x
+- Do all our VBLANK critical stuff
+- If it's still VBLANK, set that same tile to a green tick
+
+So as long as we see green tick on screen, we should be hitting our VBLANK timings. In theory it could be so badly wrong we've dropped an entire frame to the next VBLANK but I don't think that's plausible. I'll leave this in as indicator and we should know if it ever goes wrong.
+
+I may need to invest in better perf measuring to make sure we're hitting 60fps, hopefully there's some way to do that on emulators.
+
 ## Current TODOS/Possible tasks
 
 - Draw some towers
