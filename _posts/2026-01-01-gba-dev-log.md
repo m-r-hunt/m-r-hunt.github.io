@@ -145,10 +145,13 @@ So as long as we see green tick on screen, we should be hitting our VBLANK timin
 
 I may need to invest in better perf measuring to make sure we're hitting 60fps, hopefully there's some way to do that on emulators.
 
+## 14/1/26
+
+- Implemented placing towers (very simple for now)
+- Drew a basic creep moving animation, loading it into the game, need to play the animation
+
 ## Current TODOS/Possible tasks
 
-- Draw some towers
-- Make a basic tower placement control
 - Draw an enemy with animation to move between tiles
 - Pathfind the enemy path from some entrance to a "goal"
 - Spawn an enemy animating and moving down the path
