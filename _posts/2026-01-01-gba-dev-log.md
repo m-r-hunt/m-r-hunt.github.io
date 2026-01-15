@@ -150,6 +150,11 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 - Implemented placing towers (very simple for now)
 - Drew a basic creep moving animation, loading it into the game, need to play the animation
 
+## 15/1/26
+
+- Played the animation in the simplest possible way
+- Thinking about how to handle frame timings for animation - 1 frame/frame is way too fast, don't want to duplicate data
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
