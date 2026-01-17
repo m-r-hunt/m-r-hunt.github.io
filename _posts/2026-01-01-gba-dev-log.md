@@ -155,6 +155,14 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 - Played the animation in the simplest possible way
 - Thinking about how to handle frame timings for animation - 1 frame/frame is way too fast, don't want to duplicate data
 
+## 16/1/26
+
+- Working on tracking creeps moving on a path with a simple animation system
+
+## 17/1/26
+
+- Working on tracking creeps properly and making animation data driven
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
