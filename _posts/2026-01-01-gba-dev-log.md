@@ -163,6 +163,10 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 
 - Working on tracking creeps properly and making animation data driven
 
+## 18/1/26
+
+- Tweaking animation, actually get it to move around
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
