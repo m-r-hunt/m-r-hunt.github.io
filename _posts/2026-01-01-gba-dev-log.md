@@ -167,6 +167,10 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 
 - Tweaking animation, actually get it to move around
 
+## 19/1/26
+
+- Vertical version of animation
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
