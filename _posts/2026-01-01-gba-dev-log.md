@@ -171,6 +171,12 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 
 - Vertical version of animation
 
+## 20/1/26
+
+- Playing vertical anim/moving down.
+
+Haven't been very good at making time for this for a bit, today also missed out on the time I should have had at lunchtime due to other factors and got distracted in evening. Will try and make a bit more time in next few days to finish out Jan strong.
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
