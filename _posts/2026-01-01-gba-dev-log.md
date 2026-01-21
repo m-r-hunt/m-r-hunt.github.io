@@ -177,6 +177,12 @@ I may need to invest in better perf measuring to make sure we're hitting 60fps, 
 
 Haven't been very good at making time for this for a bit, today also missed out on the time I should have had at lunchtime due to other factors and got distracted in evening. Will try and make a bit more time in next few days to finish out Jan strong.
 
+## 21/1/26
+
+- Get a creep to follow a path (manually defined for now) while animating correctly. Including flipping the animation horizontally and vertically. The horizontal flip is good but it's clear that the vertical flip is not correct, I guess I should play the animation backwards in this case.
+
+![Walking]({{site.url}}/assets/gba2026/td_pathing.gif)
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
