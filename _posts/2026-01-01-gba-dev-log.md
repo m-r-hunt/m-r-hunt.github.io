@@ -183,6 +183,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 ![Walking]({{site.url}}/assets/gba2026/td_pathing.gif)
 
+## 22/1/26
+
+- Playing the animation backwards for upwards movement works as desired.
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
