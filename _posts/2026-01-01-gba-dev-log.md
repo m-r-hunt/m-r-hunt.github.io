@@ -195,6 +195,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 - Moving code around, getting away from one giant ugly main function
 
+## 25/1/26
+
+- Working on code for towers actually firing
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
