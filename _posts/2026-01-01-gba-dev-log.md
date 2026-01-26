@@ -199,6 +199,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 - Working on code for towers actually firing
 
+## 26/1/26
+
+- Very basic version of tower firing (no vfx) working
+
 ## Current TODOS/Possible tasks
 
 - Draw an enemy with animation to move between tiles
