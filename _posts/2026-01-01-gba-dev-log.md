@@ -203,9 +203,14 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 - Very basic version of tower firing (no vfx) working
 
+## 27/1/26
+
+- A bit more code on towers to support future use (multiple types)
+- A little bit of thinking about planning/next steps
+- Thinking about pathfinding, beginning the code
+
 ## Current TODOS/Possible tasks
 
-- Draw an enemy with animation to move between tiles
 - Pathfind the enemy path from some entrance to a "goal"
 - Spawn an enemy animating and moving down the path
 - Make towers shoot at the enemy
