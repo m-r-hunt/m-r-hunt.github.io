@@ -209,6 +209,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 - A little bit of thinking about planning/next steps
 - Thinking about pathfinding, beginning the code
 
+## 28/1/26
+
+- More work on pathfinding. I believe I'm finding the path now, just need to reconstruct it into the right form for the creeps to move along.
+
 ## Current TODOS/Possible tasks
 
 - Pathfind the enemy path from some entrance to a "goal"
