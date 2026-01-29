@@ -213,6 +213,12 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 - More work on pathfinding. I believe I'm finding the path now, just need to reconstruct it into the right form for the creeps to move along.
 
+## 29/1/26
+
+- Pathfinding works! After a bunch of dumb bugs in getting the path reconstructed correctly.
+
+![Pathfinding]({{site.url}}/assets/gba2026/td_pathing_works.gif)
+
 ## Current TODOS/Possible tasks
 
 - Pathfind the enemy path from some entrance to a "goal"
