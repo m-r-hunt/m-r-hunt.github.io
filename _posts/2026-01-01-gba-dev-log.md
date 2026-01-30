@@ -219,6 +219,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 ![Pathfinding]({{site.url}}/assets/gba2026/td_pathing_works.gif)
 
+## 30/1/26
+
+- Tidying up pathfinding code. Experimenting with bitfields instead of packing the pathfinding data manually (using a packed representation to minimise the amount of memory I have to allocate for pathfinding). Need to check the generated assembly isn't much worse, but the compiler should be able to optimise it to the same pretty trivially(?).
+
 ## Current TODOS/Possible tasks
 
 - Pathfind the enemy path from some entrance to a "goal"
