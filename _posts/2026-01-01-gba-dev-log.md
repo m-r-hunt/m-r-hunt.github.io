@@ -223,6 +223,12 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 - Tidying up pathfinding code. Experimenting with bitfields instead of packing the pathfinding data manually (using a packed representation to minimise the amount of memory I have to allocate for pathfinding). Need to check the generated assembly isn't much worse, but the compiler should be able to optimise it to the same pretty trivially(?).
 
+## 31/1/26
+
+- Switch pathfinding to use a queue (implemented on a circular buffer) instead of a vector push/pop at one end. This means it's actually doing a BFS and finding the shortest path (before it was greedy and did not find shortest path in trivial cases).
+
+Tomorrow is February which means we are switching to the "make time for at least 1 decent 1 hour+ session every week" mode for the month. Since I have time, I'm going to keep tomorrow as a "week" of 1 day ending on Sunday and then run weeks from there for the rest of the month. In future if it's not convenient I might make different choices.
+
 ## Current TODOS/Possible tasks
 
 - Pathfind the enemy path from some entrance to a "goal"
