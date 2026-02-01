@@ -229,8 +229,10 @@ Haven't been very good at making time for this for a bit, today also missed out 
 
 Tomorrow is February which means we are switching to the "make time for at least 1 decent 1 hour+ session every week" mode for the month. Since I have time, I'm going to keep tomorrow as a "week" of 1 day ending on Sunday and then run weeks from there for the rest of the month. In future if it's not convenient I might make different choices.
 
+## Week Ending 1/2/26
+
+- Working on making towers shoot creeps vfx. Created sprites, loading them, drawing them with affine transformation.
+
 ## Current TODOS/Possible tasks
 
-- Pathfind the enemy path from some entrance to a "goal"
-- Spawn an enemy animating and moving down the path
 - Make towers shoot at the enemy
