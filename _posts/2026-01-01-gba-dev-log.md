@@ -233,6 +233,11 @@ Tomorrow is February which means we are switching to the "make time for at least
 
 - Working on making towers shoot creeps vfx. Created sprites, loading them, drawing them with affine transformation.
 
+## Week Ending 8/2/26
+
+- Improving tower shooting, not fully working but I don't have the brain to wrestle with GBA angle maths right now
+- Drew out a basic 8x8 tile font to set up for rendering text on UI. May want a different font/text drawing solution later but this will get me started.
+
 ## Current TODOS/Possible tasks
 
 - Make towers shoot at the enemy
