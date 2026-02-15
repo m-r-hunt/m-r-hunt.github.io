@@ -238,6 +238,12 @@ Tomorrow is February which means we are switching to the "make time for at least
 - Improving tower shooting, not fully working but I don't have the brain to wrestle with GBA angle maths right now
 - Drew out a basic 8x8 tile font to set up for rendering text on UI. May want a different font/text drawing solution later but this will get me started.
 
+## Week Ending 15/2/26
+
+- Write simple printing code, both sprite based and tile based using the font.
+
+![Text]({{site.url}}/assets/gba2026/td_text.png)
+
 ## Current TODOS/Possible tasks
 
 - Make towers shoot at the enemy
