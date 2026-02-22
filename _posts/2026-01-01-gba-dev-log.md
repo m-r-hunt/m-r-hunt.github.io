@@ -244,6 +244,10 @@ Tomorrow is February which means we are switching to the "make time for at least
 
 ![Text]({{site.url}}/assets/gba2026/td_text.png)
 
+## Week Ending 22/2/26
+
+- Building out game flow to switch between "planning" and "defense" phases
+
 ## Current TODOS/Possible tasks
 
 - Make towers shoot at the enemy
