@@ -20,41 +20,60 @@ A probably too wordy summary of the game's plot:
 <details>
 <summary>Click to expand</summary>
 
+<p>
 Link is a blacksmith's apprentice living in a Hyrule that seems to be the same as the one from Link to the Past. One day the Captain of Hyrule Castle comes in to pick up his new sword, but forgets to take it with him. Link is dispatched to bring it to him. Following him to the Sanctuary, Link finds it seemingly under attack with the door locked, hearing cries from Seres, a nun who works there. 
-
+</p>
+<p>
 Directed by Dampe the grave digger, he enters a secret passage to reach the interior Sanctuary using the Captain's sword to defend himself. Reaching the inside of the sanctuary, he finds the evil wizard Yuga who transforms Seres into a painting. Yuga defeats Link and knocks him unconscious using his ability to turn himself into an animate drawing on the wall, and leaves with Seres.
-
+</p>
+<p>
 Upon awakening in his house, Link finds the rascally Ravio, who claims to be a travelling merchant, has taken him home to recover. Ravio invites himself to stay at Link's house, and gives Link an old bracelet as payment. Link sets off to the Castle to inform them about Yuga.
-
+</p>
+<p>
 At the Castle, Link is admitted by Impa, Zelda's maid, and views a series of paintings detailing the backstory of the Seven Sages, the Triforce, and Ganon, as well as picking up a hint that Impa is a Sage. Zelda then meets Link, and says that she has seen him in dreams. After Link explains the situation, Zelda asks him to meet Sahasrahla, the elder of Kakariko village. She also gives him a special green charm.
-
+</p>
+<p>
 Link meets Sahasrahla who surmises that Yuga is after the (descendents of) the Seven Sages, as Seres is one. He realises that his apprentice Osfala, who is also a Sage descendent, is in danger at the Eastern Palace and asks Link to go rescue him.
-
+</p>
+<p>
 Attempting to reach the Eastern Palace, Link finds an obstacle he can't overcome without a bow and arrow. He also finds signs directing him to Ravio's shop, located at his house. Returning there, Ravio lends Link the bow and arrow, waiving the rental fee as a one-off.
-
+</p>
+<p>
 Back at the Eastern Palace Link finds Osfala, who ignores the warning about Yuga and enters the Eastern Palace. Link follows, and at the center of the palace finds Yuga transforming Osfala into a painting. Yuga and Link fight, and Link gains the upper hand until Yuga transforms him into a wall drawing. Yuga leaves with Osfala, but a short while later Link's bracelet activates and allows him to exit the wall. The bracelet further allows him to merge and exit flat walls at will, the main mechanical gimmick of this game.
-
+</p>
+<p>
 Link uses this newfound ability to traverse the exterior of the palace to the exit. He meets Sahasrahla, and they head back to the castle. The castle is now surrounding by an ominous magic barrier, and Sahasrahla decides Link needs to find the master sword to break in. To do that, Link needs to get the 3 pendants of virtue. The Princess's charm is the first, and the other 2 are in 2 more dungeons. Link sets off to find them.
-
+</p>
+<p>
 2 dungeons pass relatively uneventfully and Link gets the two pendants. Then he heads to the lost woods and grabs the master sword. Finally he heads back to the castle and breaks the magic barrier with the master sword. Heading inside he finds Yuga in the middle of transforming Zelda into a painting. Yuga flees and Link pursues. Link catches up and beats his ass in another boss fight, and he flees again. Following once more, Link finds the highest tower of the castle empty. He slashes a wall hanging and finds a mysterious magical crack in the wall. He merges with the wall and enters the crack, and finds himself transported to another world: Lorule.
-
+</p>
+<p>
 Entering Lorule Castle, Link finds Yuga surrounded by the paintings of Zelda and the 7 Sages. Yuga uses their power to summon Ganon and the Triforce of Power, and merges with them becoming a hybrid monster (Yuga-Ganon). Yuga-Ganon is about to kill Link when Hilda, the Lorule equivalent of Zelda, appears and freezes Yuga-Ganon with magic, and whisks Link to safety. Somewhere in there the paintings of the 7 Sages got scattered, but not Zelda who remains with Yuga-Ganon.
-
+</p>
+<p>
 Hilda explains that Link needs to gather the paintings of the 7 Sages to awaken his true potential as a hero while she holds Yuga-Ganon back from taking over the worlds. Link then awakens in the Lorule blacksmith. Link sets off to adventure with a few final words from Hilda about how he'll need to traverse rifts between the kingdoms, and that Lorule is a mean place.
-
+</p>
+<p>
 Link completes 7 dungeons, rescuing the 7 Sage/Paintings from each (and completing a lot of sidequest stuff along the way for 100%). He returns to Lorule Castle and enters for the final gauntlet.
-
+</p>
+<p>
 After fighting through the castle, link reaches the throne room and finds Princess Hilda alone. She tells like that Lorule is as fucked up as it is because the previous king destroyed the lorule triforce to try and prevent war, which was a huge mistake. She has been manipulating link into getting the triforce of courage and bringing it to her. She summons Yuga Ganon and they fight for a bit.
-
+</p>
+<p>
 When yuga cannon is on the ropes, Hilda demands he hand over the triforce of power to her so she can defeat link. Yuga-Ganon instead betrays her, turns her into a painting and absorbs her and the triforce of wisdom.
-
+</p>
+<p>
 After a quick round of classic Zelda magic orb tennis, Yuga-Ganon retreats into the wall. Zelda (still a painting) gives Link the Bow of Light, which can be fired while merged into a wall, to force Yuga-Ganon out of the wall so he can be whacked with a master sword. Link repeats this a few times to defeat Yuga-Ganon who dies and vomits up Hilda.
-
+</p>
+<p>
 Zelda gets unpaintinged (somehow) and Hilda wakes up, still determined to steal the triforce. Ravio pops in and reveals that he is the lorule link. He’s also been manipulating link, but in order to stop Hilda from doing terrible things for Lorule. He convinces her to give up on stealing the Hyrule triforce.
-
+</p>
+<p>
 Hilda takes everyone to the Lorule sacred realm which contains the original crack leading to hyrule. She sends Link and Zelda back to Hyrule using Link/Ravio's bracelet, sealing off the crack in the process.
-
+</p>
+<p>
 Link and Zelda wind up in the hyrule sacred realm. They use the now-whole Hyrule triforce, which has the power to grant wishes, to wish for the Lorule triforce to be restored. Everything ends happily. After credits, link returns the Master Sword to its plinth.
+</p>
 
 </details>
 
