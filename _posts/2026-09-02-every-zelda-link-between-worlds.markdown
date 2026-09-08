@@ -130,6 +130,6 @@ And the roll for the next game is...
 
 ![Second Roll]({{site.url}}/assets/every_zelda/zelda-roll2.jpg)
 
-Phantom Hourglass
+**Phantom Hourglass**
 
 Back to the DS.
