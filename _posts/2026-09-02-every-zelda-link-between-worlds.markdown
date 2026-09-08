@@ -109,6 +109,10 @@ The best part of this sidequest is the rewards. For every 10 maiamais rescued, M
 
 ![Final items]({{site.url}}/assets/every_zelda/albw_items.jpg)
 
+## 100% Addendum
+
+After writing this I found a [better source for a 100% checklist](https://zeldawiki.wiki/wiki/100%25_Completion) which I'll be referring to from now on. The main upshot for LbW is that I missed a Bottle (which fills the inventory nicely when you also remember the bow of light only given in the final boss fight). There's also a giant cuckoo easter egg thing, which I'm discounting because I don't want to play that minigame, and the street pass stuff which I'm discounting because I either can't or don't want to do it. I went back for the bottle.
+
 ## Remaining Games List
 
 * The Legend of Zelda
@@ -120,6 +124,7 @@ The best part of this sidequest is the rewards. For every 10 maiamais rescued, M
 * Phantom Hourglass
 * Spirit Tracks
 * ~~A Link Between Worlds~~
+* Echoes of Wisdom (*Not rolled this time because I forgot it, see original blog post*)
 
 And the roll for the next game is...
 

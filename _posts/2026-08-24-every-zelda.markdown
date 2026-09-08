@@ -34,6 +34,9 @@ Without further ado, here is the full game list:
 * Phantom Hourglass
 * Spirit Tracks
 * A Link Between Worlds
+* Echoes of Wisdom (Note)
+
+Note: I forgot about Echoes of Wisdom when originally writing this. Despite looking at a list of all the Zelda games to formulate this list. So it wasn't included as an option for the first 2 rolls (although wouldn't have been rolled anyway based on the results).
 
 The end result of this should be a series of fairly involved blog post reviews of each game in the series. Watch this space. And finally the first game to be played is:
 
