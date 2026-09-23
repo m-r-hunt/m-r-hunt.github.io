@@ -31,7 +31,7 @@ Without further ado, here is the full game list:
 * Oracle of Seasons
 * Oracle of Ages
 * The Minish Cap
-* [Phantom Hourglass]({{site.url}}/blog/gaming/every-zelda-link-phantom-hourglass/)
+* [Phantom Hourglass]({{site.url}}/blog/gaming/every-zelda-phantom-hourglass/)
 * Spirit Tracks
 * [A Link Between Worlds]({{site.url}}/blog/gaming/every-zelda-link-between-worlds/)
 * Echoes of Wisdom (Note)
