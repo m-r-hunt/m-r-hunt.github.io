@@ -117,9 +117,11 @@ The sailing in the game does kinda drag after a while. I didn't mind when I was 
 
 I think my biggest criticism of PH is that it feels very handholdy, especially in the first half of the game or so. Things are constantly explained and reexplained and you are never expected to think for yourself before someone pops up to tell you exactly what to do. For example, there are many puzzles in the game that revolve around drawing on or otherwise notating the map, which is a fun mechanic and decent use of the DS touch screen. But almost every time you need to do this the game will explicitly tell you to do so. This was a general problem in this era of Nintendo design, isn't the worst Zelda game for this problem (that's Skyward Sword) but it still grates on me a lot.
 
-The story is decent, but it commits the crime of relegating Tetra, one of the most memorable and interesting Zelda incarnations, to being a useless damsel in distress, in fact just a statue for most of the game. She's barely in it outside of the very beginning and end. This is also not just a direct sequel but actually has the same Link and Zelda(Tetra) as Windwaker which is quite unusual for Zelda.
+The story is decent, but it commits the crime of relegating Tetra, one of the most memorable and interesting Zelda incarnations, to being a useless damsel in distress, in fact just a statue for most of the game. She's barely in it outside of the very beginning and end. This is also not just a direct sequel but actually has the same Link and Zelda(Tetra) as Windwaker which is quite unusual for Zelda. Although this does open up questions as to why Link doesn't have any of his cool stuff or skills from Windwaker handy.
 
 No super memorable dungeons again, in fact the dungeons tend to suffer a bit because you have a very high fidelity map of them as soon as you enter and constantly visible on the second screen. The most infamous one is the Temple of the Ocean King, which you repeatedly revisit and which has a unique "timed semi-stealth based" vibe rather than a normal Zelda dungeon design. I actually didn't dislike this overmuch, the fact that each time you come back to it you have new abilities to take new paths keeps me engaged enough, and it's not so long as to become boring especially when you get the midway checkpoint.
+
+Overall I still had fun with Phantom Hourglass but it is definitely not my favourite Zelda game. I think dropping it rather than persisting for the full 100% was a good idea because I just wasn't enjoying it by the end.
 
 ## Sidquests and Stuff
 
