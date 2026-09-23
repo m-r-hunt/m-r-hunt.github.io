@@ -31,9 +31,9 @@ Without further ado, here is the full game list:
 * Oracle of Seasons
 * Oracle of Ages
 * The Minish Cap
-* Phantom Hourglass
+* [Phantom Hourglass]({{site.url}}/blog/gaming/every-zelda-link-phantom-hourglass/)
 * Spirit Tracks
-* A Link Between Worlds
+* [A Link Between Worlds]({{site.url}}/blog/gaming/every-zelda-link-between-worlds/)
 * Echoes of Wisdom (Note)
 
 Note: I forgot about Echoes of Wisdom when originally writing this. Despite looking at a list of all the Zelda games to formulate this list. So it wasn't included as an option for the first 2 rolls (although wouldn't have been rolled anyway based on the results).

@@ -5,7 +5,7 @@ date: 2026-09-22 06:00:00 +0000
 categories: gaming
 ---
 
-As the next game in [my current challenge]({{site.url}}/gaming/every-zelda/), I have now finished Phantom Hourglass with not 100% completion, because I got sick of the game at the end. Took a little longer, but not bad going.
+As the next game in [my current challenge]({{site.url}}/blog/gaming/every-zelda/), I have now finished Phantom Hourglass with not 100% completion, because I got sick of the game at the end. Took a little longer, but not bad going.
 
 ![Credits]({{site.url}}/assets/every_zelda/ph_credits.jpg)
 

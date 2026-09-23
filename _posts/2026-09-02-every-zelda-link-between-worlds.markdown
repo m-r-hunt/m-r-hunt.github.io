@@ -5,7 +5,7 @@ date: 2026-09-02 06:00:00 +0000
 categories: gaming
 ---
 
-As the first step in [my current challenge]({{site.url}}/gaming/every-zelda/), I have now finished A Link Between Worlds with 100% completion. Took me a little over a week, which is pretty good going really.
+As the first step in [my current challenge]({{site.url}}/blog/gaming/every-zelda/), I have now finished A Link Between Worlds with 100% completion. Took me a little over a week, which is pretty good going really.
 
 ![Credits]({{site.url}}/assets/every_zelda/albw_credits.jpg)
 
