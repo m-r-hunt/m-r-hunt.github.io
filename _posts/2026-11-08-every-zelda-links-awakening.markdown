@@ -88,6 +88,8 @@ The game is decent but it suffers a little from the design limitations of the or
 
 Speaking of which, the bonus Colour Dungeon is a weird anachronism preserved from the "DX" Gameboy  Colo(u)r release. They've made it colourblind accessible too in this version, which is understandable in view of modern gaming standard but feels self defeating.
 
+This is a quality remake. The art is very nice, with an almost toybox-like quality. The gameplay is quite authentic to the original but just a tiny bit polished. Having dedicated sword and shield buttons makes everything so much smoother. I wish they had put the Roc's Feather on a button too as I had it bound to one for almost the entire game anyway.
+
 ![Wind Fish]({{site.url}}/assets/every_zelda/la_windfish.png)
 
 This is the second game in a row that has ended with a magical whale appearing and sending Link back to the real world/being amiguous about whether this was all real. Maybe Phantom Hourglass was an intentional reference to this, I have never put that together before (because I hadn't beaten LA).
